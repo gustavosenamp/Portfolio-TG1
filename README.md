@@ -18,25 +18,99 @@ Em 2023, ingressei na **Fatec São José dos Campos**, no curso de **Análise e 
 
 ### 💼 Histórico Profissional
 
-Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor Full Stack Estagiário** na empresa **Pro4Tech**. Durante o estágio, atuei no desenvolvimento e manutenção de sistemas internos, sendo responsável por:
+Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor Full Stack Estagiário** na empresa **Pro4Tech**. Durante o estágio, atuei no desenvolvimento e manutenção de sistemas reais, sendo responsável por:
 
 - 🔧 Implementar novas funcionalidades;
 - 💳 Integrar e atualizar APIs (como a **PagSeguro**);
-- 🚀 Trabalhar com **CI/CD** no **Azure DevOps**;
 - 🔄 Desenvolver rotinas assíncronas;
 - 📲 Integrar serviços de mensagens: **SMS**, **WhatsApp**, **E-mail**;
 - ⏰ Criar agendamentos automáticos de tarefas.
 
----
+## 📱 Contatos
+ <a href= "https://www.linkedin.com/in/gustavo-sena-577045232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:gustavosena07052005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href = "https://github.com/gustavosenamp" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 ## 🚀 Meus Principais Conhecimentos
 
-| **TypeScript**  | **React**     | **JavaScript**    | **C#**          | **.NET**     | **Docker**   | **AWS**       | **MySQL**      | **Python**    | **Git**         |
-|-----------------|---------------|-------------------|-----------------|--------------|--------------|---------------|----------------|----------------|-----------------|
-| <img src="https://github.com/user-attachments/assets/b6e3a609-9914-47e1-a2e4-adab14fdecb1" width="50"/> | <img src="https://github.com/user-attachments/assets/51f7fbca-172f-4ca6-ad5c-61df27a9b402" width="50"/> | <img src="https://github.com/user-attachments/assets/28fb3d11-eb57-4cbf-a7a4-72420f3023cf" width="50"/> | <img src="https://github.com/user-attachments/assets/632a33e7-5b65-48b9-a06a-1fbda21e7247" width="50"/> | <img src="https://github.com/user-attachments/assets/2185b003-f9e2-40d1-83dc-ec35f40876a3" width="50"/> | <img src="https://github.com/user-attachments/assets/438cfb0f-0314-4438-90a7-c9899ea62838" width="50"/> | <img src="https://github.com/user-attachments/assets/b92f0309-645c-4b8e-a2dc-fdf80e0cf342" width="50"/> | <img src="https://github.com/user-attachments/assets/df3a53f4-f182-4a9c-a65c-b7accfb2c1b3" width="50"/> | <img src="https://github.com/user-attachments/assets/214b2cad-1d38-4901-b230-b7fe60fdca42" width="50"/> | <img src="https://github.com/user-attachments/assets/f8ddb0e6-29e2-4120-89d7-72405b0923ce" width="50"/> |
+### 🛠️ Tecnologias
+
+| **TypeScript** | **React** | **JavaScript** | **C#** | **.NET** | **Docker** | **AWS** | **SQL Server** | **Python** | **Git** |
+|----------------|-----------|----------------|--------|----------|------------|---------|----------------|-------------|---------|
+| ![TypeScript](https://github.com/user-attachments/assets/b6e3a609-9914-47e1-a2e4-adab14fdecb1) | ![React](https://github.com/user-attachments/assets/51f7fbca-172f-4ca6-ad5c-61df27a9b402) | ![JavaScript](https://github.com/user-attachments/assets/28fb3d11-eb57-4cbf-a7a4-72420f3023cf) | ![C#](https://github.com/user-attachments/assets/feddd097-8ed2-4af1-8b0a-bb7d726865a6) | ![.NET](https://github.com/user-attachments/assets/814cab54-4269-482d-9f98-0b3307d77efe) | ![Docker](https://github.com/user-attachments/assets/b26d36f3-1fa1-4ff9-b612-5046462eead3) | ![AWS](https://github.com/user-attachments/assets/38865eeb-9ea9-4a1c-8c0a-2924e83657df) | ![SQL Server](https://github.com/user-attachments/assets/55e7dfb0-24ea-4eb9-96e1-fed0b3b54711) | ![Python](https://github.com/user-attachments/assets/214b2cad-1d38-4901-b230-b7fe60fdca42) | ![Git](https://github.com/user-attachments/assets/f8ddb0e6-29e2-4120-89d7-72405b0923ce) |
+
 
 
 ---
+
+## 🧩 Projeto Tech School 1º API - 2023
+
+### 🏢 **Empresa Parceira**: Antônio Egydio
+
+---
+
+### ❗ **Problema** 
+
+Muitos alunos possuem dificuldades em compreender os fundamentos das metodologias ágeis de forma prática e organizada. A falta de material didático digital e acessível agrava essa lacuna de aprendizado.
+
+---
+
+### 💡 **Solução** 
+
+Desenvolvimento de um **site informativo, interativo e intuitivo**, abordando os principais conceitos das metodologias ágeis, com exemplos práticos e um sistema de avaliação baseado nos papéis de **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**.
+
+---
+
+### 🧪 **Tecnologias Utilizadas**
+
+O projeto foi construído com as seguintes tecnologias:
+
+- 💻 **Python** com o framework **Flask**
+- 🌐 **HTML5** e **CSS3**
+- ⚙️ **JavaScript**
+- 🎨 **Bootstrap**
+- ✏️ **Figma** (protótipos)
+- 📁 **GitHub** (versionamento de código)
+- 📌 **Trello** (organização ágil das tarefas)
+
+---
+
+### 🤝 **Contribuições Individuais**
+
+Cada membro da equipe contribuiu ativamente:
+
+- 🧭 **Product Owner**: Priorização das tarefas e visão do produto.
+- 🔄 **Scrum Master**: Facilitação dos sprints e reuniões.
+- 👨‍💻 **Desenvolvedores**: Divisão nas tarefas de codificação, testes, prototipagem e documentação.
+- 🎥 **Todos**: Participação na criação do site, gravação de vídeos, desenvolvimento do protótipo e apresentações.
+
+---
+
+### 🛠️ **Hard Skills Desenvolvidas**
+
+Durante a execução do projeto, aplicamos:
+
+- 💻 Programação com **Python e Flask**
+- 🌐 Criação de páginas com **HTML, CSS e JavaScript**
+- 🎨 Prototipagem no **Figma**
+- 📁 Versionamento com **GitHub**
+- 🧪 Testes e implantação em ambiente virtual
+- 🚀 Desenvolvimento de um **MVP funcional**
+
+---
+
+### 🤹 **Soft Skills Praticadas**
+
+Além das habilidades técnicas, desenvolvemos:
+
+- 📣 **Comunicação efetiva** e empática
+- 🕐 **Gestão de tempo** com organização em sprints
+- 🧠 **Resolução colaborativa de problemas**
+- 🔄 **Adaptabilidade** diante de desafios e mudanças
+- 📋 **Comprometimento** com responsabilidades individuais e coletivas
+
+---
+
 
 ## 🎓 Sobre o TCC
 
