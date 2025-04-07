@@ -77,12 +77,12 @@ O projeto foi construído com as seguintes tecnologias:
 
 ### 🤝 **Contribuições Individuais**
 
-Cada membro da equipe contribuiu ativamente:
+Cada integrante da equipe teve participação ativa no desenvolvimento do projeto:
 
-- 🧭 **Product Owner**: Priorização das tarefas e visão do produto.
-- 🔄 **Scrum Master**: Facilitação dos sprints e reuniões.
-- 👨‍💻 **Desenvolvedores**: Divisão nas tarefas de codificação, testes, prototipagem e documentação.
-- 🎥 **Todos**: Participação na criação do site, gravação de vídeos, desenvolvimento do protótipo e apresentações.
+- 🧭 **Backend**: Responsável por parte da implementação do backend utilizando **Python com Flask**, garantindo a lógica de negócio.
+- 🎨 **Frontend**: Desenvolvimento de páginas **responsivas** utilizando **HTML** e **CSS**, com foco na experiência do usuário.
+- ⚙️ **Interatividade**: Implementação de funcionalidades **dinâmicas** com **JavaScript**, incluindo respostas a questionários e outras interações com o usuário.
+- 🎥 **Atividades em conjunto**: Participação coletiva na **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
 
 ---
 
