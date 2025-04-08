@@ -49,13 +49,13 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 
 ### ❗ **Problema** 
 
-Desenvolver um site informativo simples e funcional sobre a Metodologia Ágil que contenha conceitos e fundamentos, assim como exemplos práticos e avaliações para o usuário.
+Muitos alunos possuem dificuldades em compreender os fundamentos das metodologias ágeis de forma prática e organizada. A falta de material didático digital e acessível agrava essa lacuna de aprendizado.
 
 ---
 
 ### 💡 **Solução** 
 
-Desenvolvimento de um **site informativo, interativo e intuitivo**, abordando os principais conceitos das metodologias ágeis, com exemplos práticos e um sistema de avaliação baseado nos papéis de **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**.
+Desenvolvemos um **site informativo, interativo e intuitivo**, abordando os principais conceitos das metodologias ágeis, com exemplos práticos e um sistema de avaliação baseado nos papéis de **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**.
 
 ---
 
