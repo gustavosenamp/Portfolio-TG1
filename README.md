@@ -49,13 +49,13 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 
 ### ❗ **Problema** 
 
-Muitos alunos possuem dificuldades em compreender os fundamentos das metodologias ágeis de forma prática e organizada. A falta de material didático digital e acessível agrava essa lacuna de aprendizado.
+Muitos alunos têm problemas para entender os princípios das metodologias ágeis de maneira prática e estruturada, principalmente por causa da abordagem excessivamente teórica e pouco contextualizada do ensino convencional. A falta de materiais didáticos digitais, acessíveis e interativos intensifica essa situação, tornando mais difícil o envolvimento dos alunos e a compreensão dos conceitos. Portanto, os estudantes têm poucas chances de utilizar os princípios ágeis na prática, o que prejudica o aprimoramento de habilidades fundamentais requeridas pelo mercado de trabalho.
 
 ---
 
 ### 💡 **Solução** 
 
-Desenvolvemos um **site informativo, interativo e intuitivo**, abordando os principais conceitos das metodologias ágeis, com exemplos práticos e um sistema de avaliação baseado nos papéis de **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**.
+Como solução para esse problema, desenvolvemos um **site informativo, interativo e intuitivo** que visa facilitar a compreensão das metodologias ágeis de forma prática e acessível. A plataforma apresenta os principais conceitos de forma clara, com linguagem didática, recursos visuais e exemplos aplicados ao cotidiano de projetos. Além disso, conta com um sistema de avaliação dinâmica baseado nos papéis do **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**, permitindo que os usuários testem seus conhecimentos e compreendam na prática como cada papel atua dentro de um time ágil, promovendo um aprendizado mais completo, engajador e alinhado às exigências do mercado.
 
 ---
 
@@ -75,9 +75,9 @@ O projeto foi construído com as seguintes tecnologias:
 
 ### 🤝 **Contribuições Individuais**
 
-Cada integrante da equipe teve participação ativa no desenvolvimento do projeto:
+Algumas da minhas participações foram:
 
-- 🧭 **Criação de textos**: Responsável pela criação de alguns textos para as páginas do projeto.
+- 🧭 **Criação de textos**: Responsável pela criação de alguns textos para as páginas do projeto, como na página que explica a função de um Scrum Master.
 - 🎨 **Frontend**: Desenvolvimento de páginas **responsivas** utilizando **HTML** e **CSS** e modo escuro.
 - ⚙️ **Interatividade**: Implementação de funcionalidades **dinâmicas** com **JavaScript**, incluindo respostas a questionários e outras interações com o usuário.
 - 🎥 **Atividades em conjunto**: Participação coletiva na **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
