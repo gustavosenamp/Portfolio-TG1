@@ -77,8 +77,8 @@ O projeto foi construído com as seguintes tecnologias:
 
 Cada integrante da equipe teve participação ativa no desenvolvimento do projeto:
 
-- 🧭 **Backend**: Responsável por parte da implementação do backend utilizando **Python com Flask**.
-- 🎨 **Frontend**: Desenvolvimento de páginas **responsivas** utilizando **HTML** e **CSS**, com foco na experiência do usuário.
+- 🧭 **Criação de textos**: Responsável pela criação de alguns textos para as páginas do projeto.
+- 🎨 **Frontend**: Desenvolvimento de páginas **responsivas** utilizando **HTML** e **CSS** e modo escuro.
 - ⚙️ **Interatividade**: Implementação de funcionalidades **dinâmicas** com **JavaScript**, incluindo respostas a questionários e outras interações com o usuário.
 - 🎥 **Atividades em conjunto**: Participação coletiva na **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
 
