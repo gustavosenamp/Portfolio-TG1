@@ -25,6 +25,7 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 - 🔄 Desenvolver rotinas assíncronas;
 - 📲 Integrar serviços de mensagens: **SMS**, **WhatsApp**, **E-mail**;
 - ⏰ Criar agendamentos automáticos de tarefas.
+- 🖥️ Criação de telas responsivas.
 
 ## 📱 Contatos
  <a href= "https://www.linkedin.com/in/gustavo-sena-577045232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -40,7 +41,6 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 | ![TypeScript](https://github.com/user-attachments/assets/b6e3a609-9914-47e1-a2e4-adab14fdecb1) | ![React](https://github.com/user-attachments/assets/51f7fbca-172f-4ca6-ad5c-61df27a9b402) | ![JavaScript](https://github.com/user-attachments/assets/28fb3d11-eb57-4cbf-a7a4-72420f3023cf) | ![C#](https://github.com/user-attachments/assets/feddd097-8ed2-4af1-8b0a-bb7d726865a6) | ![.NET](https://github.com/user-attachments/assets/814cab54-4269-482d-9f98-0b3307d77efe) | ![Docker](https://github.com/user-attachments/assets/b26d36f3-1fa1-4ff9-b612-5046462eead3) | ![AWS](https://github.com/user-attachments/assets/38865eeb-9ea9-4a1c-8c0a-2924e83657df) | ![SQL Server](https://github.com/user-attachments/assets/55e7dfb0-24ea-4eb9-96e1-fed0b3b54711) | ![Python](https://github.com/user-attachments/assets/214b2cad-1d38-4901-b230-b7fe60fdca42) | ![Git](https://github.com/user-attachments/assets/f8ddb0e6-29e2-4120-89d7-72405b0923ce) |
 
 
-
 ---
 
 ## 🧩 Projeto Tech School 1º API - 2023
@@ -51,7 +51,7 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 
 ### ❗ **Problema** 
 
-Muitos alunos possuem dificuldades em compreender os fundamentos das metodologias ágeis de forma prática e organizada. A falta de material didático digital e acessível agrava essa lacuna de aprendizado.
+Desenvolver um site informativo simples e funcional sobre a Metodologia Ágil que contenha conceitos e fundamentos, assim como exemplos práticos e avaliações para o usuário.
 
 ---
 
