@@ -10,9 +10,7 @@ Olá! Meu nome é **Gustavo de Sena Moraes Pessoa**, sou aluno da **Fatec São J
 
 ### 🎓 Histórico Acadêmico
 
-Minha jornada no mundo da tecnologia começou no final do ensino médio, quando cursei o **Técnico em Automação Industrial**. Apesar de não me identificar com a área como um todo, as disciplinas de programação chamaram minha atenção e despertaram meu interesse.
-
-Foi a partir daí que percebi minha vocação: **queria ser desenvolvedor de software**.
+Minha jornada no mundo da tecnologia começou no final do ensino médio, quando eu cursava um **Técnico em Automação Industrial**. Apesar de não me identificar com a área como um todo, as disciplinas de programação chamaram minha atenção e despertaram meu interesse. Foi a partir daí que percebi eu queria trabalhar nessa área e queria ser desenvolvedor de software.
 
 Em 2023, ingressei na **Fatec São José dos Campos**, no curso de **Análise e Desenvolvimento de Sistemas**, onde ao longo dos semestres, tive contato com diversas linguagens, frameworks, bancos de dados e boas práticas de desenvolvimento. Durante o curso, realizei diversos projetos acadêmicos e trabalhos em equipe, que fortaleceram minha base técnica e minha colaboração com outras áreas.
 
@@ -79,7 +77,7 @@ O projeto foi construído com as seguintes tecnologias:
 
 Cada integrante da equipe teve participação ativa no desenvolvimento do projeto:
 
-- 🧭 **Backend**: Responsável por parte da implementação do backend utilizando **Python com Flask**, garantindo a lógica de negócio.
+- 🧭 **Backend**: Responsável por parte da implementação do backend utilizando **Python com Flask**.
 - 🎨 **Frontend**: Desenvolvimento de páginas **responsivas** utilizando **HTML** e **CSS**, com foco na experiência do usuário.
 - ⚙️ **Interatividade**: Implementação de funcionalidades **dinâmicas** com **JavaScript**, incluindo respostas a questionários e outras interações com o usuário.
 - 🎥 **Atividades em conjunto**: Participação coletiva na **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
@@ -111,13 +109,6 @@ Além das habilidades técnicas, desenvolvemos:
 
 ---
 
-
-## 🎓 Sobre o TCC
-
-Este projeto foi desenvolvido como meu **Trabalho de Conclusão de Curso (TCC)**, com o objetivo de documentar minhas experiências, aprendizados e habilidades adquiridas durante a graduação. Além disso, serve como um portfólio profissional que demonstra meu desenvolvimento como estudante e futuro profissional da área de tecnologia.
-
----
-
 <p align="center">
-  Feito com 💙 por Gustavo de Sena Moraes Pessoa
+  Feito por Gustavo de Sena Moraes Pessoa
 </p>
