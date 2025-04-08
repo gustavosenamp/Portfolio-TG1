@@ -16,14 +16,7 @@ Em 2023, ingressei na **Fatec São José dos Campos**, no curso de **Análise e 
 
 ### 💼 Histórico Profissional
 
-Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor Full Stack Estagiário** na empresa **Pro4Tech**. Durante o estágio, atuei no desenvolvimento e manutenção de sistemas reais, sendo responsável por:
-
-- 🔧 Implementar novas funcionalidades;
-- 💳 Integrar e atualizar APIs (como a **PagSeguro**);
-- 🔄 Desenvolver rotinas assíncronas;
-- 📲 Integrar serviços de mensagens: **SMS**, **WhatsApp**, **E-mail**;
-- ⏰ Criar agendamentos automáticos de tarefas.
-- 🖥️ Criação de telas responsivas.
+Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor Full Stack Estagiário** na empresa **Pro4Tech**. Durante o estágio, atuei no desenvolvimento e manutenção de um sistema real, sendo responsável por **implementar novas funcionalidades**, **integrar e atualizar APIs** (como a **PagSeguro**), **desenvolver rotinas assíncronas** e **integrar serviços de mensagens**, incluindo **SMS**, **WhatsApp** e **e-mail**. Também criei **agendamentos automáticos de tarefas** e participei da **criação de telas responsivas**, contribuindo diretamente para a evolução do projeto.
 
 ## 📱 Contatos
  <a href= "https://www.linkedin.com/in/gustavo-sena-577045232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -41,72 +34,49 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 
 ---
 
-## 🧩 Projeto Tech School 1º API - 2023
+## 🧩 Projeto Tech School 1º API - 2023-01
 
 ### 🏢 **Empresa Parceira**: Antônio Egydio
 
----
-
 ### ❗ **Problema** 
 
-Muitos alunos têm problemas para entender os princípios das metodologias ágeis de maneira prática e estruturada, principalmente por causa da abordagem excessivamente teórica e pouco contextualizada do ensino convencional. A falta de materiais didáticos digitais, acessíveis e interativos intensifica essa situação, tornando mais difícil o envolvimento dos alunos e a compreensão dos conceitos. Portanto, os estudantes têm poucas chances de utilizar os princípios ágeis na prática, o que prejudica o aprimoramento de habilidades fundamentais requeridas pelo mercado de trabalho.
+Os funcionários da empresa parceira têm enfrentado dificuldades em compreender e aplicar, de forma prática e organizada, os fundamentos das metodologias ágeis em seu ambiente de trabalho. Essa limitação compromete a eficiência dos processos internos e a colaboração entre equipes, especialmente em projetos que exigem rapidez, flexibilidade e entregas contínuas. A ausência de materiais didáticos digitais, acessíveis e voltados à realidade corporativa agrava o problema, tornando o aprendizado pouco engajador e dificultando a adoção efetiva dos princípios ágeis no dia a dia profissional.
 
----
 
 ### 💡 **Solução** 
 
 Como solução para esse problema, desenvolvemos um **site informativo, interativo e intuitivo** que visa facilitar a compreensão das metodologias ágeis de forma prática e acessível. A plataforma apresenta os principais conceitos de forma clara, com linguagem didática, recursos visuais e exemplos aplicados ao cotidiano de projetos. Além disso, conta com um sistema de avaliação dinâmica baseado nos papéis do **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**, permitindo que os usuários testem seus conhecimentos e compreendam na prática como cada papel atua dentro de um time ágil, promovendo um aprendizado mais completo, engajador e alinhado às exigências do mercado.
 
----
-
 ### 🧪 **Tecnologias Utilizadas**
 
 O projeto foi construído com as seguintes tecnologias:
 
-- 💻 **Python** com o framework **Flask**
-- 🌐 **HTML5** e **CSS3**
-- ⚙️ **JavaScript**
-- 🎨 **Bootstrap**
-- ✏️ **Figma** (protótipos)
-- 📁 **GitHub** (versionamento de código)
-- 📌 **Trello** (organização ágil das tarefas)
-
----
+- **Python** com o framework **Flask**
+- **HTML5** e **CSS3**
+- **JavaScript**
+- **Bootstrap**
+- **Figma** (protótipos)
+- **GitHub** (versionamento de código)
+- **Trello** (organização ágil das tarefas)
 
 ### 🤝 **Contribuições Individuais**
 
-Algumas da minhas participações foram:
-
-- 🧭 **Criação de textos**: Responsável pela criação de alguns textos para as páginas do projeto, como na página que explica a função de um Scrum Master.
-- 🎨 **Frontend**: Desenvolvimento de páginas **responsivas** utilizando **HTML** e **CSS** e modo escuro.
-- ⚙️ **Interatividade**: Implementação de funcionalidades **dinâmicas** com **JavaScript**, incluindo respostas a questionários e outras interações com o usuário.
-- 🎥 **Atividades em conjunto**: Participação coletiva na **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
-
----
+Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pela criação de textos explicativos para algumas páginas, como a que aborda o papel do **Scrum Master**. No **frontend**, desenvolvi páginas **responsivas** utilizando **HTML** e **CSS**, incluindo a implementação do **modo escuro**. Também atuei na criação de funcionalidades **interativas** com **JavaScript**, como os questionários e outras ações dinâmicas com o usuário. Além disso, participei ativamente das atividades em grupo, como a **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
 
 ### 🛠️ **Hard Skills Desenvolvidas**
 
 Durante a execução do projeto, aplicamos:
 
-- 💻 Programação com **Python e Flask**
-- 🌐 Criação de páginas com **HTML, CSS e JavaScript**
-- 🎨 Prototipagem no **Figma**
-- 📁 Versionamento com **GitHub**
-- 🚀 Desenvolvimento de um **MVP funcional**
-
----
+- Programação com **Python e Flask**
+- Criação de páginas com **HTML, CSS e JavaScript**
+- Prototipagem no **Figma**
+- Versionamento com **GitHub**
+- Desenvolvimento de um **MVP funcional**
 
 ### 🤹 **Soft Skills Praticadas**
 
-Além das habilidades técnicas, desenvolvemos:
+Além das habilidades técnicas, também desenvolvemos importantes competências interpessoais ao longo do projeto. Exercitamos uma boa **comunicação** entre nós, organizamos nosso trabalho com foco na **gestão de tempo** por meio de sprints, e praticamos a **resolução colaborativa de problemas**. Demonstramos **adaptabilidade** diante de desafios e mudanças no processo e mantivemos um forte **comprometimento** com nossas responsabilidades, tanto individuais quanto coletivas.
 
-- 📣 **Comunicação efetiva** e empática
-- 🕐 **Gestão de tempo** com organização em sprints
-- 🧠 **Resolução colaborativa de problemas**
-- 🔄 **Adaptabilidade** diante de desafios e mudanças
-- 📋 **Comprometimento** com responsabilidades individuais e coletivas
-
----
 
 <p align="center">
   Feito por Gustavo de Sena Moraes Pessoa
