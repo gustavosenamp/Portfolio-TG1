@@ -92,7 +92,6 @@ Durante a execução do projeto, aplicamos:
 - 🌐 Criação de páginas com **HTML, CSS e JavaScript**
 - 🎨 Prototipagem no **Figma**
 - 📁 Versionamento com **GitHub**
-- 🧪 Testes e implantação em ambiente virtual
 - 🚀 Desenvolvimento de um **MVP funcional**
 
 ---
