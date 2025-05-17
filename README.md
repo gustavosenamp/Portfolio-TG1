@@ -77,6 +77,91 @@ Durante a execução do projeto, aplicamos:
 
 Além das habilidades técnicas, também desenvolvemos importantes competências interpessoais ao longo do projeto. Exercitamos uma boa **comunicação** entre nós, organizamos nosso trabalho com foco na **gestão de tempo** por meio de sprints, e praticamos a **resolução colaborativa de problemas**. Demonstramos **adaptabilidade** diante de desafios e mudanças no processo e mantivemos um forte **comprometimento** com nossas responsabilidades, tanto individuais quanto coletivas.
 
+---
+
+## 🧩 Projeto Assitente Zari 2º API - 2023-02
+
+### 🏢 **Empresa Parceira**: Fatec
+
+### ❗ **Problema** 
+
+Muitas empresas enfrentam dificuldades para analisar grandes volumes de documentos em formato PDF, que geralmente contêm informações importantes distribuídas em textos extensos, tabelas e gráficos. A leitura manual desses arquivos é demorada, suscetível a erros e exige conhecimento específico para extrair dados relevantes de forma eficiente. Isso gera atrasos na tomada de decisão e aumenta o esforço dos colaboradores, prejudicando a produtividade e a qualidade das análises.
+
+
+### 💡 **Solução** 
+
+Desenvolvemos um **chatbot inteligente** para facilitar a análise de documentos PDF. Através de uma interface de chat, o usuário pode enviar um documento e realizar perguntas diretamente relacionadas ao seu conteúdo.  O bot interpreta e responde com base nas informações do arquivo, tornando a leitura e compreensão mais rápidas e eficientes.
+
+## 🔧 Tecnologias utilizadas
+
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+  Linguagem principal utilizada no desenvolvimento do backend do chatbot.
+
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+  Ambiente de desenvolvimento integrado (IDE) usado para programar e gerenciar o projeto em Java.
+
+- ![GRADLE](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
+  Ferramenta de automação utilizada para compilação, gerenciamento de dependências e build do projeto.
+
+- ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+  Banco de dados utilizado para armazenar informações dos documentos e interações dos usuários.
+
+- ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+  Utilizado na criação dos protótipos da interface do chatbot.
+
+- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
+  Ferramenta de gerenciamento de tarefas e organização do fluxo de trabalho da equipe.
+
+- ![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+  Utilizado para documentação, planejamento e relatórios do projeto.
+
+- ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+  Plataforma de versionamento e colaboração no código-fonte do projeto.
+ 
+
+### 🤝 **Contribuições Individuais**
+
+No projeto, atuei como Desenvolvedor dentro da metodologia ágil Scrum. Participei ativamente das reuniões do time, contribuindo com ideias e acompanhando o andamento das tarefas em cada sprint. Utilizei o Git e o GitHub para versionamento do código, colaborando com a equipe por meio de commits organizados e controle de branches. Minhas principais contribuições técnicas foram no desenvolvimento da interface do chatbot, onde trabalhei na construção da tela de interação com o usuário, e também na lógica de funcionamento do bot, auxiliando na implementação da leitura e interpretação dos documentos PDF para responder às perguntas dos usuários de forma eficiente.
+
+### 🛠️ **Hard Skills Desenvolvidas**
+
+Abaixo estão as tecnologias utilizadas no projeto e o respectivo nível de proficiência alcançado:
+
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+  Linguagem principal do backend do projeto.  
+  **Nível de proficiência:** Uso com ajuda
+
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+  IDE utilizada para o desenvolvimento e depuração do código.  
+  **Nível de proficiência:** Uso com autonomia
+
+- ![GRADLE](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
+  Ferramenta de build e gerenciamento de dependências.  
+  **Nível de proficiência:** Faço com ajuda
+
+- ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+  Banco de dados utilizado para armazenar informações e interações.  
+  **Nível de proficiência:** Uso com autonomia
+
+
+- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
+  Organização de tarefas e acompanhamento do desenvolvimento.  
+  **Nível de proficiência:** Uso com autonomia
+
+- ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+  Documentação, relatórios e apresentações.  
+  **Nível de proficiência:** Consigo ensinar
+
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+  Versionamento de código e colaboração em equipe.  
+  **Nível de proficiência:** Consigo Ensinar
+
+
+
+### 🤹 **Soft Skills Praticadas**
+
+Durante o projeto, utilizei a comunicação eficaz para esclarecer dúvidas da equipe em uma daily meeting, explicando detalhadamente o funcionamento do chatbot na análise de documentos PDF, o que alinhou o entendimento do time e evitou retrabalhos. Para garantir o cumprimento dos prazos, organizei o quadro do Trello com subtarefas e prioridades claras, facilitando o acompanhamento e a identificação rápida de impedimentos, o que permitiu decisões ágeis. Além disso, demonstrei adaptabilidade ao incorporar suporte a novos formatos de documentos, estudando as especificações e propondo mudanças modulares na arquitetura do chatbot que permitiram a expansão sem comprometer funcionalidades existentes.
+
 
 <p align="center">
   Feito por Gustavo de Sena Moraes Pessoa
