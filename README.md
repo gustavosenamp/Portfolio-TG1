@@ -18,6 +18,16 @@ Em 2023, ingressei na **Fatec São José dos Campos**, no curso de **Análise e 
 
 Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor Full Stack Estagiário** na empresa **Pro4Tech**. Durante o estágio, atuei no desenvolvimento e manutenção de um sistema real, sendo responsável por **implementar novas funcionalidades**, **integrar e atualizar APIs** (como a **PagSeguro**), **desenvolver rotinas assíncronas** e **integrar serviços de mensagens**, incluindo **SMS**, **WhatsApp** e **e-mail**. Também criei **agendamentos automáticos de tarefas** e participei da **criação de telas responsivas**, contribuindo diretamente para a evolução do projeto.
 
+ > **Índice de Projetos - API**
+
+ <p>
+  • <a href="#tech-school"> 2023-1: Tech School </a>  </br>
+  • <a href="#assistente-virtual-zari"> 2023-2: Assistente Virtual Zari </a>  </br>
+  • <a href="#dashboard-pro4tech"> 2024-1: Dashboard Pro4Tech </a>  </br>
+  • <a href="#we-coleb"> 2024-2: WE COLEB </a>  </br>
+  • <a href="#sistema-de-reembolso"> 2025-1: Sistema de Reembolso </a>  </br>
+</p>
+
 ## 📱 Contatos
  <a href= "https://www.linkedin.com/in/gustavo-sena-577045232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:gustavosena07052005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -34,9 +44,11 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 
 ---
 
-## 🧩 Projeto Tech School 1º API - 2023-01
+## 2023 - 1º Semestre
+### Tech School
 
-### 🏢 **Empresa Parceira**: Antônio Egydio
+### 🏢 **Empresa Parceira**: Fatec
+### 👨‍🏫 **Professor responsável**: Antônio Egydio
 
 ### ❗ **Problema** 
 
@@ -79,9 +91,12 @@ Além das habilidades técnicas, também desenvolvemos importantes competências
 
 ---
 
-## 🧩 Projeto Assitente Zari 2º API - 2023-02
+## 2023 - 2º Semestre
+### Assistente Virtual Zari
 
 ### 🏢 **Empresa Parceira**: Fatec
+### 👨‍🏫 **Professor responsável**: Antônio Egydio
+
 
 ### ❗ **Problema** 
 
@@ -94,69 +109,67 @@ Desenvolvemos um **chatbot inteligente** para facilitar a análise de documentos
 
 ## 🔧 Tecnologias utilizadas
 
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+- **Java**  
   Linguagem principal utilizada no desenvolvimento do backend do chatbot.
 
-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
-  Ambiente de desenvolvimento integrado (IDE) usado para programar e gerenciar o projeto em Java.
+- **Eclipse**  
+  Ambiente de desenvolvimento integrado (**IDE**) usado para programar e gerenciar o projeto em Java.
 
-- ![GRADLE](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
+- **GRADLE**  
   Ferramenta de automação utilizada para compilação, gerenciamento de dependências e build do projeto.
 
-- ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+- **MYSQL**  
   Banco de dados utilizado para armazenar informações dos documentos e interações dos usuários.
 
-- ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+- **FIGMA**  
   Utilizado na criação dos protótipos da interface do chatbot.
 
-- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
+- **Trello**  
   Ferramenta de gerenciamento de tarefas e organização do fluxo de trabalho da equipe.
 
-- ![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+- **Microsoft Office**  
   Utilizado para documentação, planejamento e relatórios do projeto.
 
-- ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+- **GitHub**  
   Plataforma de versionamento e colaboração no código-fonte do projeto.
- 
 
-### 🤝 **Contribuições Individuais**
+### 🤝 Contribuições Individuais
 
-No projeto, atuei como Desenvolvedor dentro da metodologia ágil Scrum. Participei ativamente das reuniões do time, contribuindo com ideias e acompanhando o andamento das tarefas em cada sprint. Utilizei o Git e o GitHub para versionamento do código, colaborando com a equipe por meio de commits organizados e controle de branches. Minhas principais contribuições técnicas foram no desenvolvimento da interface do chatbot, onde trabalhei na construção da tela de interação com o usuário, e também na lógica de funcionamento do bot, auxiliando na implementação da leitura e interpretação dos documentos PDF para responder às perguntas dos usuários de forma eficiente.
+No projeto, atuei como **Desenvolvedor** dentro da metodologia ágil **Scrum**. Participei ativamente das reuniões do time, contribuindo com ideias e acompanhando o andamento das tarefas em cada **sprint**. Utilizei o **Git** e o **GitHub** para versionamento do código, colaborando com a equipe por meio de **commits organizados** e controle de **branches**. Minhas principais contribuições técnicas foram no desenvolvimento da **interface do chatbot**, onde trabalhei na construção da tela de interação com o usuário, e também na lógica de funcionamento do bot, auxiliando na implementação da **leitura e interpretação dos documentos PDF** para responder às perguntas dos usuários de forma eficiente.
 
-### 🛠️ **Hard Skills Desenvolvidas**
+### 🛠️ Hard Skills Desenvolvidas
 
-Abaixo estão as tecnologias utilizadas no projeto e o respectivo nível de proficiência alcançado:
+Abaixo estão as tecnologias utilizadas no projeto e o respectivo **nível de proficiência** alcançado:
 
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+- **Java**  
   Linguagem principal do backend do projeto.  
   **Nível de proficiência:** Uso com ajuda
 
-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+- **Eclipse**  
   IDE utilizada para o desenvolvimento e depuração do código.  
   **Nível de proficiência:** Uso com autonomia
 
-- ![GRADLE](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
+- **GRADLE**  
   Ferramenta de build e gerenciamento de dependências.  
   **Nível de proficiência:** Faço com ajuda
 
-- ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+- **MYSQL**  
   Banco de dados utilizado para armazenar informações e interações.  
   **Nível de proficiência:** Uso com autonomia
 
-
-- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
+- **Trello**  
   Organização de tarefas e acompanhamento do desenvolvimento.  
   **Nível de proficiência:** Uso com autonomia
 
-- ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+- **Microsoft Office**  
   Documentação, relatórios e apresentações.  
   **Nível de proficiência:** Consigo ensinar
 
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+- **GitHub**  
   Versionamento de código e colaboração em equipe.  
-  **Nível de proficiência:** Consigo Ensinar
+  **Nível de proficiência:** Consigo ensinar
 
-
+  
 
 ### 🤹 **Soft Skills Praticadas**
 
