@@ -163,7 +163,7 @@ Durante o projeto, utilizei a comunicação eficaz para esclarecer dúvidas da e
 
 ### ❗ **Problema**
 
-A Pro4Tech enfrentava dificuldades para visualizar e interpretar grandes volumes de dados de vendas armazenados em planilhas Excel. Os relatórios gerados manualmente eram demorados, dificultavam a personalização das informações e tornavam o processo de análise e tomada de decisões mais lento e suscetível a erros.
+A Pro4Tech enfrentava dificuldades para visualizar e interpretar grandes volumes de dados de vendas armazenados em planilhas Excel.
 
 ### 💡 **Solução**
 
@@ -228,44 +228,46 @@ Atuei como Scrum Master e Desenvolvedor no projeto, liderando a equipe na metodo
 ## 2024/02 - 4º Semestre
 ### WE COLEB
 
-**👥 Parceiro acadêmico:** JJM Log </br>
+**👥 Empresa Parceira:** JJM Log </br>
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
 
-🏢 **Sobre a Empresa**
+# 🏢 Sobre a Empresa
 
-A JJM Log é uma empresa de logística que atua na gestão de transporte, armazenagem e entrega de mercadorias. Focada em eficiência e rastreabilidade, a JJM Log busca soluções que proporcionem mais agilidade e visibilidade em seus processos operacionais.
+A **JJM Log** é uma empresa especializada em logística, atuando nas áreas de transporte, armazenagem e entrega de mercadorias. Com foco em eficiência operacional e rastreabilidade, a JJM Log busca constantemente soluções que aumentem a agilidade e a visibilidade de seus processos internos.
 
-📍 **Problema**
+## 📍 Desafio
 
-A JJM Log enfrentava dificuldades no controle de processos internos devido ao uso de ferramentas não integradas e fluxos manuais. Isso resultava em falta de visibilidade, comunicação ineficiente entre departamentos e retrabalho, impactando a agilidade operacional.
+A empresa enfrentava dificuldades no controle de seus processos internos, causadas principalmente pelo uso de ferramentas desconectadas e procedimentos manuais. Esses fatores geravam baixa visibilidade, falhas na comunicação entre os departamentos e retrabalho, comprometendo diretamente a agilidade nas operações logísticas.
 
-📍 **Solução**
+## 📍 Solução
 
-Desenvolvemos um sistema web com interfaces personalizadas para diferentes usuários, com permissões específicas. O sistema automatiza processos, permite o acompanhamento em tempo real e facilita a colaboração entre departamentos, centralizando a gestão de demandas.
+Para superar esses desafios, foi desenvolvido um sistema web com interfaces personalizadas para cada tipo de usuário, respeitando níveis de permissão específicos. A solução automatiza os principais processos da empresa, oferece acompanhamento em tempo real das operações e promove a colaboração entre os departamentos, centralizando a gestão das demandas em uma única plataforma.
 
 🔧 **Tecnologias utilizadas**
 
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Desenvolvimento de interfaces dinâmicas e responsivas com componentes reutilizáveis. | Garantia de tipagem segura e maior legibilidade no código front-end. | Implementação da lógica de back-end e integração com o banco de dados. | Modelagem e persistência de dados de usuários, permissões e atividades. | Criação e validação de protótipos de interface com stakeholders. | Organização de tarefas, sprints e gestão de prioridades. | Controle de versão, colaboração e integração contínua. |
+* **TypeScript:** Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
+* **JavaScript:** Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
+* **React:** Desenvolvimento da interface interativa com componentes dinâmicos e responsivos.
+* **Node.js:** Desenvolvimento do back-end e manipulação de dados no servidor.
+* **MySQL:** Modelagem e persistência de dados em banco relacional.
+* **Figma: Criação de protótipos de telas e definição da experiência do usuário.
+* **Trello**:** Organização de tarefas, sprints e gestão de prioridades.
 
 🗣️ **Soft Skills**
 
 * **Autogestão**: Gerenciei meu próprio fluxo de trabalho, alinhando prioridades do time e prazos com autonomia e responsabilidade.
 * **Resolução de problemas**: Contribuí ativamente na identificação de bugs e na proposição de soluções para garantir a estabilidade e performance do sistema.
 * **Pensamento crítico**: Avaliei e sugeri melhorias técnicas com base em boas práticas de desenvolvimento e feedbacks do cliente.
-* **Clareza na comunicação**: Documentei decisões técnicas e interações entre sistemas, facilitando o entendimento e integração com outros membros da equipe.
 
 👨‍💻 **Hard Skills**
 
-* **React**: Uso com autonomia para criar interfaces interativas, dashboards e formulários, garantindo responsividade e reutilização de componentes.
-* **TypeScript**: Uso com autonomia para definir tipagens seguras, melhorando a qualidade e manutenção do código front-end.
-* **Node.js**: Uso com ajuda para integrar o front-end com o back-end, auxiliando na definição de rotas e lógica de negócio.
-* **MySQL**: Uso com ajuda para modelagem de tabelas e consultas, garantindo a persistência de dados do sistema.
-* **Figma**: Uso com autonomia para interpretar protótipos, validar requisitos de design e sugerir melhorias na interface.
-* **GitHub**: Uso com autonomia para versionamento, gerenciamento de branches e colaboração no repositório.
-* **Trello**: Uso com autonomia para organizar tarefas, acompanhar o progresso e gerenciar sprints.
+* **React**: Criar interfaces interativas, dashboards e formulários, garantindo responsividade e reutilização de componentes. **Nível de proficiência:** Uso com autonomia
+* **TypeScript**: Definição tipagens seguras, melhorando a qualidade e manutenção do código front-end. **Nível de proficiência:** Uso com autonomia
+* **Node.js**: Integrar o front-end com o back-end, auxiliando na definição de rotas e lógica de negócio. **Nível de proficiência:** Uso com autonomia
+* **MySQL**: Modelagem de tabelas e consultas, garantindo a persistência de dados do sistema. **Nível de proficiência:** Uso com autonomia
+* **GitHub**: Gerenciamento de branchs e armazenamento do em um repositório. **Nível de proficiência:** Consigo Ensinar
+* **Trello**: Acompanhar o progresso, organizar e gerenciar as sprints. **Nível de proficiência:** Uso com autonomia
 
 📍 **Minhas Contribuições**
 
@@ -280,17 +282,17 @@ Atuei como desenvolvedor front-end, responsável por construir interfaces funcio
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
-🏢 **Sobre a Empresa**
+# 🏢 Sobre a Empresa
 
-A GSW Software é uma empresa especializada no desenvolvimento de soluções tecnológicas para otimização de processos empresariais. A empresa oferece sistemas personalizados, incluindo ERP e ferramentas para gestão de despesas, sempre focada em aumentar a produtividade e a eficiência dos seus clientes.
+A **GSW Software** é especializada no desenvolvimento de soluções tecnológicas voltadas à otimização de processos empresariais. A empresa oferece sistemas personalizados, como ERPs e ferramentas de gestão de despesas, sempre com foco em aumentar a produtividade e a eficiência dos seus clientes.
 
-📍 **Problema**
+## 📍 Desafio
 
-A GSW Software enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que gerava atrasos e inconsistências nas informações. A ausência de um sistema automatizado dificultava a auditoria e o controle das despesas, o que resultava em uma experiência pouco ágil para os colaboradores e para o setor financeiro da empresa.
+A GSW enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que ocasionava atrasos, inconsistências nas informações e falta de controle. A ausência de um sistema automatizado dificultava a auditoria e comprometia a agilidade do processo, tanto para os colaboradores quanto para o setor financeiro.
 
-📍 **Solução**
+## 📍 Solução
 
-Foi desenvolvido um aplicativo móvel para permitir que os colaboradores registrassem suas despesas de forma rápida e segura, anexassem comprovantes e enviassem as solicitações diretamente para o setor financeiro. O sistema também possui uma área administrativa para análise e aprovação dos reembolsos, com visualização de históricos e relatórios detalhados.
+Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite aos colaboradores registrarem despesas de forma rápida e segura, anexando comprovantes e enviando solicitações diretamente ao setor financeiro. A solução inclui uma área administrativa para análise e aprovação dos reembolsos, com acesso a históricos e relatórios detalhados, garantindo mais controle, transparência e agilidade ao processo.
 
 🔧 **Tecnologias Utilizadas**
 
