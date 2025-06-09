@@ -50,6 +50,8 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 ### 🏢 **Empresa Parceira**: Fatec
 ### 👨‍🏫 **Professor responsável**: Antônio Egydio
 
+🔗 [GitHub do Projeto](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre)
+
 ### ❗ **Problema** 
 
 Os funcionários da empresa parceira têm enfrentado dificuldades em compreender e aplicar, de forma prática e organizada, os fundamentos das metodologias ágeis em seu ambiente de trabalho. Essa limitação compromete a eficiência dos processos internos e a colaboração entre equipes, especialmente em projetos que exigem rapidez, flexibilidade e entregas contínuas. A ausência de materiais didáticos digitais, acessíveis e voltados à realidade corporativa agrava o problema, tornando o aprendizado pouco engajador e dificultando a adoção efetiva dos princípios ágeis no dia a dia profissional.
@@ -102,6 +104,7 @@ Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pe
 ### 🏢 **Empresa Parceira**: Fatec
 ### 👨‍🏫 **Professor responsável**: Giuliano Bertoti
 
+🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
 ### ❗ **Problema** 
 
