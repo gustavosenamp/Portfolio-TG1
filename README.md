@@ -71,9 +71,6 @@ O projeto foi construído com as seguintes tecnologias:
 - **GitHub** (versionamento de código)
 - **Trello** (organização ágil das tarefas)
 
-### 🤝 **Contribuições Individuais**
-
-Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pela criação de textos explicativos para algumas páginas, como a que aborda o papel do **Scrum Master**. No **frontend**, desenvolvi páginas **responsivas** utilizando **HTML** e **CSS**, incluindo a implementação do **modo escuro**. Também atuei na criação de funcionalidades **interativas** com **JavaScript**, como os questionários e outras ações dinâmicas com o usuário. Além disso, participei ativamente das atividades em grupo, como a **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
 
 ### 🛠️ **Hard Skills Desenvolvidas**
 
@@ -92,6 +89,10 @@ Contribuí ativamente na **organização do fluxo de trabalho**, criando checkli
 Demonstrei **adaptabilidade** ao reformular conteúdos e ajustar o layout das páginas após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.  
 Trabalhei de forma **colaborativa** na gravação e roteirização dos vídeos explicativos e protótipos, contribuindo com ideias criativas e sugestões de melhoria.  
 Por fim, mostrei **comprometimento** ao assumir a responsabilidade pelo modo escuro do site, garantindo sua implementação completa antes da apresentação final, mesmo diante de limitações de tempo.
+
+### 📍 Minhas Contribuições
+
+Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pela criação de textos explicativos para algumas páginas, como a que aborda o papel do **Scrum Master**. No **frontend**, desenvolvi páginas **responsivas** utilizando **HTML** e **CSS**, incluindo a implementação do **modo escuro**. Também atuei na criação de funcionalidades **interativas** com **JavaScript**, como os questionários e outras ações dinâmicas com o usuário. Além disso, participei ativamente das atividades em grupo, como a **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
 
 ---
 
@@ -129,9 +130,6 @@ Desenvolvemos um **chatbot inteligente** para facilitar a análise de documentos
 
 - **GitHub**: Plataforma de versionamento e colaboração no código-fonte do projeto.
 
-### 🤝 Contribuições Individuais
-
-No projeto, atuei como **Desenvolvedor** dentro da metodologia ágil **Scrum**. Participei ativamente das reuniões do time, contribuindo com ideias e acompanhando o andamento das tarefas em cada **sprint**. Utilizei o **Git** e o **GitHub** para versionamento do código, colaborando com a equipe por meio de **commits organizados** e controle de **branches**. Minhas principais contribuições técnicas foram no desenvolvimento da **interface do chatbot**, onde trabalhei na construção da tela de interação com o usuário, e também na lógica de funcionamento do bot, auxiliando na implementação da **leitura e interpretação dos documentos PDF** para responder às perguntas dos usuários de forma eficiente.
 
 ### 🛠️ Hard Skills Desenvolvidas
 
@@ -155,6 +153,10 @@ Abaixo estão as tecnologias utilizadas no projeto e o respectivo **nível de pr
 ### 🤹 **Soft Skills Praticadas**
 
 Durante o projeto, utilizei a comunicação eficaz para esclarecer dúvidas da equipe em uma daily meeting, explicando detalhadamente o funcionamento do chatbot na análise de documentos PDF, o que alinhou o entendimento do time e evitou retrabalhos. Para garantir o cumprimento dos prazos, organizei o quadro do Trello com subtarefas e prioridades claras, facilitando o acompanhamento e a identificação rápida de impedimentos, o que permitiu decisões ágeis. Além disso, demonstrei adaptabilidade ao incorporar suporte a novos formatos de documentos, estudando as especificações e propondo mudanças modulares na arquitetura do chatbot que permitiram a expansão sem comprometer funcionalidades existentes.
+
+### 📍 Minhas Contribuições
+
+No projeto, atuei como **Desenvolvedor** dentro da metodologia ágil **Scrum**. Participei ativamente das reuniões do time, contribuindo com ideias e acompanhando o andamento das tarefas em cada **sprint**. Utilizei o **Git** e o **GitHub** para versionamento do código, colaborando com a equipe por meio de **commits organizados** e controle de **branches**. Minhas principais contribuições técnicas foram no desenvolvimento da **interface do chatbot**, onde trabalhei na construção da tela de interação com o usuário, e também na lógica de funcionamento do bot, auxiliando na implementação da **leitura e interpretação dos documentos PDF** para responder às perguntas dos usuários de forma eficiente.
 
 ---
 
@@ -255,8 +257,8 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 * **React:** Desenvolvimento da interface interativa com componentes dinâmicos e responsivos.
 * **Node.js:** Desenvolvimento do back-end e manipulação de dados no servidor.
 * **MySQL:** Modelagem e persistência de dados em banco relacional.
-* **Figma: Criação de protótipos de telas e definição da experiência do usuário.
-* **Trello**:** Organização de tarefas, sprints e gestão de prioridades.
+* **Figma"": Criação de protótipos de telas e definição da experiência do usuário.
+* **Trello**: Organização de tarefas, sprints e gestão de prioridades.
 
 🗣️ **Soft Skills**
 
