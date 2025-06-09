@@ -79,15 +79,19 @@ Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pe
 
 Durante a execução do projeto, aplicamos:
 
-- Programação com **Python e Flask**
-- Criação de páginas com **HTML, CSS e JavaScript**
-- Prototipagem no **Figma**
-- Versionamento com **GitHub**
-- Desenvolvimento de um **MVP funcional**
+- Programação com **Python e Flask** Nível de proficiência: Uso Com Autonomia
+- Criação de páginas com **HTML, CSS e JavaScript** Nível de proficiência: Consigo ensinar
+- Prototipagem no **Figma** Nível de proficiência: Faço com Ajuda
+- Versionamento com **GitHub** Nível de proficiência: Consigo ensinar
+- Desenvolvimento de um **MVP funcional** Nível de proficiência: Consigo ensinar
 
 ### 🤹 **Soft Skills Praticadas**
 
-Além das habilidades técnicas, também desenvolvemos importantes competências interpessoais ao longo do projeto. Exercitamos uma boa **comunicação** entre nós, organizamos nosso trabalho com foco na **gestão de tempo** por meio de sprints, e praticamos a **resolução colaborativa de problemas**. Demonstramos **adaptabilidade** diante de desafios e mudanças no processo e mantivemos um forte **comprometimento** com nossas responsabilidades, tanto individuais quanto coletivas.
+Durante o projeto, mantive uma **comunicação contínua** com o time por meio de reuniões semanais e mensagens no Trello, esclarecendo dúvidas sobre o conteúdo das páginas e garantindo alinhamento entre o desenvolvimento frontend e os textos explicativos.  
+Contribuí ativamente na **organização do fluxo de trabalho**, criando checklists e subtarefas no Trello, o que nos ajudou a visualizar o progresso e cumprir os prazos definidos nas sprints.  
+Demonstrei **adaptabilidade** ao reformular conteúdos e ajustar o layout das páginas após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.  
+Trabalhei de forma **colaborativa** na gravação e roteirização dos vídeos explicativos e protótipos, contribuindo com ideias criativas e sugestões de melhoria.  
+Por fim, mostrei **comprometimento** ao assumir a responsabilidade pelo modo escuro do site, garantindo sua implementação completa antes da apresentação final, mesmo diante de limitações de tempo.
 
 ---
 
