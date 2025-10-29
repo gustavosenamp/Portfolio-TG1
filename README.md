@@ -287,7 +287,7 @@ Atuei como desenvolvedor front-end, responsável por construir interfaces funcio
 ## 2025/01 - 5º Semestre
 ### Sistema de Reembolso
 
-👥 **Parceiro acadêmico:** GSW Software
+👥 **Empresa Parceira:** GSW Software
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
@@ -315,6 +315,79 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * Expo: Garantir compatibilidade entre o app React Native e o sistema Android, integrando os dispositivos.
 * Figma: Criação de protótipos de telas e definição da experiência do usuário.
 * JIRA: Gestão de tarefas, sprints e acompanhamento do progresso do projeto.
+
+🗣️ **Soft Skills**
+
+* **Trabalho em Equipe:** Trabalhei de forma colaborativa com os demais desenvolvedores para garantir a integração eficiente entre as funcionalidades do sistema, como o histórico de despesas e a listagem de projetos. Participei ativamente das reuniões de sprint e de alinhamento, contribuindo para uma boa distribuição de tarefas e acompanhamento do progresso coletivo.
+
+* **Comunicação:** Mantive uma comunicação clara e constante com a equipe por meio de ferramentas como Jira e Slack, o que possibilitou um acompanhamento contínuo das demandas e resolução ágil de eventuais dúvidas ou impedimentos técnicos, especialmente durante a implementação do modo escuro e da visualização de projetos.
+
+* **Responsabilidade:** Fui responsável direto pelo desenvolvimento de funcionalidades essenciais, como o histórico de despesas e a listagem de projetos, garantindo que estivessem de acordo com os requisitos do produto e oferecessem uma experiência fluida e organizada para os usuários.
+
+* **Pensamento Crítico:** Ao implementar recursos como o modo escuro e o controle de visualização de despesas, analisei constantemente pontos de melhoria na interface e na lógica do sistema, propondo ajustes que tornassem o uso mais intuitivo e agradável, sempre com foco na usabilidade e na clareza das informações apresentadas.
+
+
+👩‍💻 **Hard Skills**
+
+* TypeScript: Tipagem segura e melhoria da qualidade do código. **Nível de proficiência:** Uso com autonomia
+* JavaScript: Desenvolver funcionalidades dinâmicas e integrar com APIs. **Nível de proficiência:** Uso com autonomia
+* React: Criar componentes reutilizáveis e desenvolver a interface web responsiva. **Nível de proficiência:** Uso com autonomia
+* React Native: Desenvolver a interface móvel com foco em performance e usabilidade. **Nível de proficiência:** Uso com ajuda
+* Node.js: Desenvolver o back-end e manipular dados no servidor. **Nível de proficiência:** Uso com autonomia
+* MongoDB: Armazenar dados de maneira flexível e escalável. **Nível de proficiência:** Uso com ajuda
+* MySQL: Modelar o banco de dados relacional e persistir dados de forma eficiente. **Nível de proficiência:** Uso com autonomia
+* Expo: Desenvolvimento mobile e facilitar a execução de projetos React Native. **Nível de proficiência:** Uso com ajuda
+
+📍 **Minhas Contribuições**
+
+Contribuí significativamente para a melhoria da usabilidade do sistema, desenvolvendo o módulo de histórico de despesas, permitindo aos usuários acompanhar com clareza suas movimentações financeiras. Implementei também o modo escuro (dark mode) da aplicação, oferecendo uma experiência visual mais confortável e personalizável. Além disso, fui responsável pela criação da funcionalidade de listagem de projetos no sistema de gerenciamento, facilitando o acesso e a organização das informações de forma mais eficiente e intuitiva.
+
+---
+
+## 2025/02 - 6º Semestre
+### Agente Nutricional
+
+👥 **Empresa Parceira:** Xertica.ai
+
+🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
+
+# 🏢 Sobre a Empresa
+
+A **Xertica.ai** é uma empresa especializada em soluções GenAI e consultoria em nuvem que promove a inovação na América Latina por meio da inteligência artificial responsável.
+
+## 📍 Desafio
+
+No cenário atual, muitas pessoas enfrentam dificuldades em manter uma alimentação equilibrada e personalizada conforme suas necessidades específicas de saúde. A falta de acompanhamento profissional constante e a sobrecarga de informações disponíveis na internet tornam o processo de adoção de hábitos alimentares saudáveis confuso e ineficiente. Além disso, soluções genéricas de nutrição digital não consideram as particularidades de cada indivíduo, como restrições alimentares, objetivos nutricionais e condições médicas específicas.
+
+## 📍 Solução
+
+Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligente voltado para fornecer apoio nutricional personalizado por meio de interações naturais em linguagem humana. O sistema permite que o usuário informe seus hábitos alimentares, preferências, restrições e metas de saúde, e, a partir disso, o agente gera recomendações nutricionais personalizadas e planos alimentares adaptativos.
+
+🔧 **Tecnologias Utilizadas**
+
+* Spring Boot: Framework Java para construção do backend, com APIs REST e integração com modelos de IA.
+
+* Vue.js: Desenvolvimento do frontend SPA (Single Page Application), com navegação fluida e componentes reativos.
+
+* Python: Linguagem principal de desenvolvimento, com foco em IA e manipulação de dados.
+
+* FastAPI: Framework moderno para construção de APIs rápidas e eficientes no backend.
+
+* LangChain: Gerenciamento do fluxo de conversação, integração com LLMs e orquestração de prompts.
+
+* Gemini (Google AI): Modelo de linguagem multimodal da Google, utilizado para geração de respostas contextuais e recomendações personalizadas.
+
+* Google AI SDK: SDK oficial para integração com os modelos Gemini, permitindo consultas seguras e performáticas.
+
+* PostgreSQL: Banco de dados relacional utilizado para armazenar informações de usuários, histórico de conversas e recomendações.
+
+* Figma: Prototipagem e design das interfaces, priorizando usabilidade e acessibilidade.
+
+* Git e GitHub: Controle de versão e colaboração entre equipes de desenvolvimento.
+
+* Maven: Gerenciamento de dependências e automação de builds do projeto backend.
+
+* JIRA: Organização e acompanhamento das tarefas, sprints e progresso do desenvolvimento.
 
 🗣️ **Soft Skills**
 
