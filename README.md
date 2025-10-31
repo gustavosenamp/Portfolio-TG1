@@ -26,6 +26,7 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
   • <a href="#dashboard-pro4tech"> 2024-1: Dashboard Pro4Tech </a>  </br>
   • <a href="#we-coleb"> 2024-2: WE COLEB </a>  </br>
   • <a href="#sistema-de-reembolso"> 2025-1: Sistema de Reembolso </a>  </br>
+  • <a href="#agente-nutricional"> 2025-2: Agente Nutricional </a>  </br>
 </p>
 
 ## 📱 Contatos
