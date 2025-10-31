@@ -388,33 +388,43 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 * Maven: Gerenciamento de dependências e automação de builds do projeto backend.
 
 * JIRA: Organização e acompanhamento das tarefas, sprints e progresso do desenvolvimento.
+  
 
-🗣️ **Soft Skills**
+## 🧠 Minhas Contribuições
 
-* **Trabalho em Equipe:** Trabalhei de forma colaborativa com os demais desenvolvedores para garantir a integração eficiente entre as funcionalidades do sistema, como o histórico de despesas e a listagem de projetos. Participei ativamente das reuniões de sprint e de alinhamento, contribuindo para uma boa distribuição de tarefas e acompanhamento do progresso coletivo.
+Atuei de forma central no **desenvolvimento do backend**, sendo responsável pela **arquitetura da aplicação**, **implementação da autenticação**, **criação e organização das rotas**, e pela **integração entre o backend e o agente de IA**.  
 
-* **Comunicação:** Mantive uma comunicação clara e constante com a equipe por meio de ferramentas como Jira e Slack, o que possibilitou um acompanhamento contínuo das demandas e resolução ágil de eventuais dúvidas ou impedimentos técnicos, especialmente durante a implementação do modo escuro e da visualização de projetos.
+Implementei também a **lógica que conecta o modelo de linguagem (Gemini)** ao sistema, permitindo a geração automática de **planos alimentares personalizados**, com base nos dados fornecidos pelos usuários.  
 
-* **Responsabilidade:** Fui responsável direto pelo desenvolvimento de funcionalidades essenciais, como o histórico de despesas e a listagem de projetos, garantindo que estivessem de acordo com os requisitos do produto e oferecessem uma experiência fluida e organizada para os usuários.
+No **frontend**, desenvolvi as **sessões de chat do agente nutricional**, garantindo a comunicação em tempo real entre o usuário e o modelo, além de auxiliar na estrutura de componentes reativos e integração com o backend.  
 
-* **Pensamento Crítico:** Ao implementar recursos como o modo escuro e o controle de visualização de despesas, analisei constantemente pontos de melhoria na interface e na lógica do sistema, propondo ajustes que tornassem o uso mais intuitivo e agradável, sempre com foco na usabilidade e na clareza das informações apresentadas.
+Essas implementações garantiram uma **experiência de conversação fluida**, com respostas contextuais e adaptadas ao perfil de cada usuário.
 
 
-👩‍💻 **Hard Skills**
+## 🗣️ Soft Skills
 
-* TypeScript: Tipagem segura e melhoria da qualidade do código. **Nível de proficiência:** Uso com autonomia
-* JavaScript: Desenvolver funcionalidades dinâmicas e integrar com APIs. **Nível de proficiência:** Uso com autonomia
-* React: Criar componentes reutilizáveis e desenvolver a interface web responsiva. **Nível de proficiência:** Uso com autonomia
-* React Native: Desenvolver a interface móvel com foco em performance e usabilidade. **Nível de proficiência:** Uso com ajuda
-* Node.js: Desenvolver o back-end e manipular dados no servidor. **Nível de proficiência:** Uso com autonomia
-* MongoDB: Armazenar dados de maneira flexível e escalável. **Nível de proficiência:** Uso com ajuda
-* MySQL: Modelar o banco de dados relacional e persistir dados de forma eficiente. **Nível de proficiência:** Uso com autonomia
-* Expo: Desenvolvimento mobile e facilitar a execução de projetos React Native. **Nível de proficiência:** Uso com ajuda
+* **Trabalho em Equipe:** Colaborei ativamente com os desenvolvedores front e back-end para garantir a integração entre os módulos de IA, autenticação e interface do chatbot.  
+  Participei das reuniões de sprint e alinhamento técnico, contribuindo com soluções arquiteturais e de performance.
 
-📍 **Minhas Contribuições**
+* **Comunicação:** Mantive comunicação constante com a equipe via **Jira e Slack**, facilitando a troca de informações sobre integrações entre o backend (FastAPI/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
 
-Contribuí significativamente para a melhoria da usabilidade do sistema, desenvolvendo o módulo de histórico de despesas, permitindo aos usuários acompanhar com clareza suas movimentações financeiras. Implementei também o modo escuro (dark mode) da aplicação, oferecendo uma experiência visual mais confortável e personalizável. Além disso, fui responsável pela criação da funcionalidade de listagem de projetos no sistema de gerenciamento, facilitando o acesso e a organização das informações de forma mais eficiente e intuitiva.
+* **Responsabilidade:** Fui responsável direto pela **estrutura principal do sistema**, desde o backend até a conexão com o modelo de IA, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
 
+* **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições à IA, propondo soluções que reduziram a latência e tornaram o chatbot mais responsivo e preciso nas respostas aos usuários.
+
+
+## 👩‍💻 Hard Skills
+
+| Tecnologia | Descrição | Proficiência |
+|-------------|------------|---------------|
+| **Python** | Desenvolvimento da camada de IA e integração com o modelo Gemini | 🟢 Uso com autonomia |
+| **FastAPI** | Criação de endpoints performáticos e seguros para comunicação entre o chatbot e o backend | 🟢 Uso com autonomia |
+| **Spring Boot** | Estruturação de rotas e autenticação do backend Java | 🟢 Uso com autonomia |
+| **LangChain** | Gerenciamento de fluxos de conversa e orquestração de prompts com o modelo de IA | 🟢 Uso com autonomia |
+| **PostgreSQL** | Modelagem e persistência de dados de usuários e histórico de conversas | 🟢 Uso com autonomia |
+| **Vue.js** | Desenvolvimento das sessões de chat e integração com a API | 🟢 Uso com autonomia |
+| **Git & GitHub** | Controle de versão e integração contínua em equipe | 🟢 Uso com autonomia |
+| **Maven** | Gerenciamento de dependências e automação do build backend Java | 🟢 Uso com autonomia |
 
 <p align="center">
   Feito por Gustavo de Sena Moraes Pessoa
