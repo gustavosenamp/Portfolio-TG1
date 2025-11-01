@@ -45,7 +45,7 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 
 ---
 
-## 2023/01 - 1º Semestre
+## 2023-1 - 1º Semestre
 ### Tech School
 
 ### 🏢 **Empresa Parceira**: Fatec
@@ -70,19 +70,19 @@ O projeto foi construído com as seguintes tecnologias:
 - **HTML5** e **CSS3**
 - **JavaScript**
 - **Bootstrap**
-- **Figma** (protótipos)
-- **GitHub** (versionamento de código)
-- **Trello** (organização ágil das tarefas)
+- **Figma**
+- **Git e GitHub**
+- **Trello**
 
 
-### 🛠️ **Hard Skills Desenvolvidas**
+### 👨‍💻 **Hard Skills Desenvolvidas**
 
 Durante a execução do projeto, aplicamos:
 
 - Programação com **Python e Flask** Nível de proficiência: Uso Com Autonomia
 - Criação de páginas com **HTML, CSS e JavaScript** Nível de proficiência: Consigo ensinar
 - Prototipagem no **Figma** Nível de proficiência: Faço com Ajuda
-- Versionamento com **GitHub** Nível de proficiência: Consigo ensinar
+- Versionamento com **Git** e **GitHub** Nível de proficiência: Consigo ensinar
 - Desenvolvimento de um **MVP funcional** Nível de proficiência: Consigo ensinar
 
 ### 🤹 **Soft Skills Praticadas**
@@ -99,7 +99,7 @@ Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pe
 
 ---
 
-## 2023/02 - 2º Semestre
+## 2023-2 - 2º Semestre
 ### Assistente Virtual Zari
 
 ### 🏢 **Empresa Parceira**: Fatec
@@ -135,7 +135,7 @@ Desenvolvemos um **chatbot inteligente** para facilitar a análise de documentos
 - **GitHub**: Plataforma de versionamento e colaboração no código-fonte do projeto.
 
 
-### 🛠️ Hard Skills Desenvolvidas
+### 👨‍💻 Hard Skills Desenvolvidas
 
 Abaixo estão as tecnologias utilizadas no projeto e o respectivo **nível de proficiência** alcançado:
 
@@ -164,10 +164,14 @@ No projeto, atuei como **Desenvolvedor** dentro da metodologia ágil **Scrum**. 
 
 ---
 
-## 2024/01 - 3º Semestre  
+## 2024-1 - 3º Semestre  
 ### Dashboard Pro4Tech
 
-### 🏢 **Empresa Parceira**: Pro4Tech  
+### 👥 **Empresa Parceira**: Pro4Tech 
+
+### 🏢 **Sobre a Empresa**:
+
+A **Pro4Tech** é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinamos nossa expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à nossa capacidade de desenvolver estratégias personalizadas para cada negócio. 
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
@@ -179,7 +183,7 @@ A Pro4Tech enfrentava dificuldades para visualizar e interpretar grandes volumes
 
 Desenvolvemos um **dashboard web interativo**, capaz de importar automaticamente arquivos Excel, armazenar os dados em um banco de dados relacional e exibi-los em tabelas e gráficos dinâmicos. A plataforma permite **segmentação de dados**, **visualizações personalizadas** para diferentes níveis de acesso (como gerentes e funcionários) e o **cálculo automático de comissões**, facilitando o trabalho analítico e otimizando o tempo da equipe.
 
-## 🔧 Tecnologias utilizadas
+### 🔧 Tecnologias utilizadas
 
 - **React**: Biblioteca JavaScript utilizada para construir toda a interface do sistema de forma dinâmica e responsiva.
 
@@ -200,7 +204,7 @@ Desenvolvemos um **dashboard web interativo**, capaz de importar automaticamente
 - **Slack**: Canal de comunicação principal da equipe, utilizado para trocas rápidas e organização de reuniões.
 
 
-### 🛠️ Hard Skills Desenvolvidas
+### 👨‍💻 Hard Skills Desenvolvidas
 
 - **React**: Desenvolvimento completo da interface com uso de componentes reutilizáveis. **Nível de proficiência:** Uso com autonomia
 
@@ -235,26 +239,26 @@ Atuei como Scrum Master e Desenvolvedor no projeto, liderando a equipe na metodo
 
 ---
 
-## 2024/02 - 4º Semestre
+## 2024-2 - 4º Semestre
 ### WE COLEB
 
-**👥 Empresa Parceira:** JJM Log </br>
+### **👥 Empresa Parceira:** JJM Log </br>
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
 
-# 🏢 Sobre a Empresa
+### 🏢 Sobre a Empresa
 
 A **JJM Log** é uma empresa especializada em logística, atuando nas áreas de transporte, armazenagem e entrega de mercadorias. Com foco em eficiência operacional e rastreabilidade, a JJM Log busca constantemente soluções que aumentem a agilidade e a visibilidade de seus processos internos.
 
-## 📍 Desafio
+### 📍 Desafio
 
 A empresa enfrentava dificuldades no controle de seus processos internos, causadas principalmente pelo uso de ferramentas desconectadas e procedimentos manuais. Esses fatores geravam baixa visibilidade, falhas na comunicação entre os departamentos e retrabalho, comprometendo diretamente a agilidade nas operações logísticas.
 
-## 📍 Solução
+### 📍 Solução
 
 Para superar esses desafios, foi desenvolvido um sistema web com interfaces personalizadas para cada tipo de usuário, respeitando níveis de permissão específicos. A solução automatiza os principais processos da empresa, oferece acompanhamento em tempo real das operações e promove a colaboração entre os departamentos, centralizando a gestão das demandas em uma única plataforma.
 
-🔧 **Tecnologias utilizadas**
+### 🔧 **Tecnologias utilizadas**
 
 * **TypeScript:** Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
 * **JavaScript:** Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
@@ -264,13 +268,13 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 * **Figma"": Criação de protótipos de telas e definição da experiência do usuário.
 * **Trello**: Organização de tarefas, sprints e gestão de prioridades.
 
-🗣️ **Soft Skills**
+### 🤹 **Soft Skills**
 
 * **Autogestão**: Gerenciei meu próprio fluxo de trabalho, alinhando prioridades do time e prazos com autonomia e responsabilidade.
 * **Resolução de problemas**: Contribuí ativamente na identificação de bugs e na proposição de soluções para garantir a estabilidade e performance do sistema.
 * **Pensamento crítico**: Avaliei e sugeri melhorias técnicas com base em boas práticas de desenvolvimento e feedbacks do cliente.
 
-👨‍💻 **Hard Skills**
+### 👨‍💻 **Hard Skills**
 
 * **React**: Criar interfaces interativas, dashboards e formulários, garantindo responsividade e reutilização de componentes. **Nível de proficiência:** Uso com autonomia
 * **TypeScript**: Definição tipagens seguras, melhorando a qualidade e manutenção do código front-end. **Nível de proficiência:** Uso com autonomia
@@ -279,32 +283,32 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 * **GitHub**: Gerenciamento de branchs e armazenamento do em um repositório. **Nível de proficiência:** Consigo Ensinar
 * **Trello**: Acompanhar o progresso, organizar e gerenciar as sprints. **Nível de proficiência:** Uso com autonomia
 
-📍 **Minhas Contribuições**
+### 📍 **Minhas Contribuições**
 
 Atuei como desenvolvedor front-end, responsável por construir interfaces funcionais e responsivas utilizando React e TypeScript. Modelei componentes reutilizáveis e integrei com a API desenvolvida pelo time de back-end para garantir a consistência dos dados em tempo real. Sugeri melhorias baseadas em feedbacks de stakeholders durante as validações de protótipo. Auxiliei na resolução de erros encontrados durante os testes e documentei os fluxos desenvolvidos para facilitar a manutenção futura do sistema.
 
 ---
 
-## 2025/01 - 5º Semestre
+## 2025-1 - 5º Semestre
 ### Sistema de Reembolso
 
-👥 **Empresa Parceira:** GSW Software
+### 👥 **Empresa Parceira:** GSW Software
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
-# 🏢 Sobre a Empresa
+### 🏢 Sobre a Empresa
 
 A **GSW Software** é especializada no desenvolvimento de soluções tecnológicas voltadas à otimização de processos empresariais. A empresa oferece sistemas personalizados, como ERPs e ferramentas de gestão de despesas, sempre com foco em aumentar a produtividade e a eficiência dos seus clientes.
 
-## 📍 Desafio
+### 📍 Desafio
 
 A GSW enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que ocasionava atrasos, inconsistências nas informações e falta de controle. A ausência de um sistema automatizado dificultava a auditoria e comprometia a agilidade do processo, tanto para os colaboradores quanto para o setor financeiro.
 
-## 📍 Solução
+### 📍 Solução
 
 Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite aos colaboradores registrarem despesas de forma rápida e segura, anexando comprovantes e enviando solicitações diretamente ao setor financeiro. A solução inclui uma área administrativa para análise e aprovação dos reembolsos, com acesso a históricos e relatórios detalhados, garantindo mais controle, transparência e agilidade ao processo.
 
-🔧 **Tecnologias Utilizadas**
+### 🔧 **Tecnologias Utilizadas**
 
 * TypeScript: Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
 * JavaScript: Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
@@ -317,7 +321,7 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * Figma: Criação de protótipos de telas e definição da experiência do usuário.
 * JIRA: Gestão de tarefas, sprints e acompanhamento do progresso do projeto.
 
-🗣️ **Soft Skills**
+### 🤹 **Soft Skills**
 
 * **Trabalho em Equipe:** Trabalhei de forma colaborativa com os demais desenvolvedores para garantir a integração eficiente entre as funcionalidades do sistema, como o histórico de despesas e a listagem de projetos. Participei ativamente das reuniões de sprint e de alinhamento, contribuindo para uma boa distribuição de tarefas e acompanhamento do progresso coletivo.
 
@@ -328,7 +332,7 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * **Pensamento Crítico:** Ao implementar recursos como o modo escuro e o controle de visualização de despesas, analisei constantemente pontos de melhoria na interface e na lógica do sistema, propondo ajustes que tornassem o uso mais intuitivo e agradável, sempre com foco na usabilidade e na clareza das informações apresentadas.
 
 
-👩‍💻 **Hard Skills**
+### 👩‍💻 **Hard Skills**
 
 * TypeScript: Tipagem segura e melhoria da qualidade do código. **Nível de proficiência:** Uso com autonomia
 * JavaScript: Desenvolver funcionalidades dinâmicas e integrar com APIs. **Nível de proficiência:** Uso com autonomia
@@ -339,32 +343,32 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * MySQL: Modelar o banco de dados relacional e persistir dados de forma eficiente. **Nível de proficiência:** Uso com autonomia
 * Expo: Desenvolvimento mobile e facilitar a execução de projetos React Native. **Nível de proficiência:** Uso com ajuda
 
-📍 **Minhas Contribuições**
+### 📍 **Minhas Contribuições**
 
 Contribuí significativamente para a melhoria da usabilidade do sistema, desenvolvendo o módulo de histórico de despesas, permitindo aos usuários acompanhar com clareza suas movimentações financeiras. Implementei também o modo escuro (dark mode) da aplicação, oferecendo uma experiência visual mais confortável e personalizável. Além disso, fui responsável pela criação da funcionalidade de listagem de projetos no sistema de gerenciamento, facilitando o acesso e a organização das informações de forma mais eficiente e intuitiva.
 
 ---
 
-## 2025/02 - 6º Semestre
+## 2025-2 - 6º Semestre
 ### Agente Nutricional
 
-👥 **Empresa Parceira:** Xertica.ai
+### 👥 **Empresa Parceira:** Xertica.ai
 
-🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
-
-# 🏢 Sobre a Empresa
+### 🏢 Sobre a Empresa
 
 A **Xertica.ai** é uma empresa especializada em soluções GenAI e consultoria em nuvem que promove a inovação na América Latina por meio da inteligência artificial responsável.
 
-## 📍 Desafio
+🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
+
+### 📍 Desafio
 
 No cenário atual, muitas pessoas enfrentam dificuldades em manter uma alimentação equilibrada e personalizada conforme suas necessidades específicas de saúde. A falta de acompanhamento profissional constante e a sobrecarga de informações disponíveis na internet tornam o processo de adoção de hábitos alimentares saudáveis confuso e ineficiente. Além disso, soluções genéricas de nutrição digital não consideram as particularidades de cada indivíduo, como restrições alimentares, objetivos nutricionais e condições médicas específicas.
 
-## 📍 Solução
+### 📍 Solução
 
 Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligente voltado para fornecer apoio nutricional personalizado por meio de interações naturais em linguagem humana. O sistema permite que o usuário informe seus hábitos alimentares, preferências, restrições e metas de saúde, e, a partir disso, o agente gera recomendações nutricionais personalizadas e planos alimentares adaptativos.
 
-🔧 **Tecnologias Utilizadas**
+### 🔧 **Tecnologias Utilizadas**
 
 * Spring Boot: Framework Java para construção do backend, com APIs REST e integração com modelos de IA.
 
@@ -389,20 +393,9 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 * Maven: Gerenciamento de dependências e automação de builds do projeto backend.
 
 * JIRA: Organização e acompanhamento das tarefas, sprints e progresso do desenvolvimento.
-  
-
-## 🧠 Minhas Contribuições
-
-Atuei de forma central no **desenvolvimento do backend**, sendo responsável pela **arquitetura da aplicação**, **implementação da autenticação**, **criação e organização das rotas**, e pela **integração entre o backend e o agente de IA**.  
-
-Implementei também a **lógica que conecta o modelo de linguagem (Gemini)** ao sistema, permitindo a geração automática de **planos alimentares personalizados**, com base nos dados fornecidos pelos usuários.  
-
-No **frontend**, desenvolvi as **sessões de chat do agente nutricional**, garantindo a comunicação em tempo real entre o usuário e o modelo, além de auxiliar na estrutura de componentes reativos e integração com o backend.  
-
-Essas implementações garantiram uma **experiência de conversação fluida**, com respostas contextuais e adaptadas ao perfil de cada usuário.
 
 
-## 🗣️ Soft Skills
+### 🤹 Soft Skills
 
 * **Trabalho em Equipe:** Colaborei ativamente com os desenvolvedores front e back-end para garantir a integração entre os módulos de IA, autenticação e interface do chatbot.  
   Participei das reuniões de sprint e alinhamento técnico, contribuindo com soluções arquiteturais e de performance.
@@ -414,7 +407,7 @@ Essas implementações garantiram uma **experiência de conversação fluida**, 
 * **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições à IA, propondo soluções que reduziram a latência e tornaram o chatbot mais responsivo e preciso nas respostas aos usuários.
 
 
-## 👩‍💻 Hard Skills
+### 👩‍💻 Hard Skills
 
 | Tecnologia | Descrição | Proficiência |
 |-------------|------------|---------------|
@@ -426,6 +419,16 @@ Essas implementações garantiram uma **experiência de conversação fluida**, 
 | **Vue.js** | Desenvolvimento das sessões de chat e integração com a API | 🟢 Uso com autonomia |
 | **Git & GitHub** | Controle de versão e integração contínua em equipe | 🟢 Uso com autonomia |
 | **Maven** | Gerenciamento de dependências e automação do build backend Java | 🟢 Uso com autonomia |
+
+### 📍 Minhas Contribuições
+
+Atuei de forma central no **desenvolvimento do backend**, sendo responsável pela **arquitetura da aplicação**, **implementação da autenticação**, **criação e organização das rotas**, e pela **integração entre o backend e o agente de IA**.  
+
+Implementei também a **lógica que conecta o modelo de linguagem (Gemini)** ao sistema, permitindo a geração automática de **planos alimentares personalizados**, com base nos dados fornecidos pelos usuários.  
+
+No **frontend**, desenvolvi as **sessões de chat do agente nutricional**, garantindo a comunicação em tempo real entre o usuário e o modelo, além de auxiliar na estrutura de componentes reativos e integração com o backend.  
+
+Essas implementações garantiram uma **experiência de conversação fluida**, com respostas contextuais e adaptadas ao perfil de cada usuário.
 
 <p align="center">
   Feito por Gustavo de Sena Moraes Pessoa
