@@ -376,13 +376,13 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 
 * Python: Linguagem principal de desenvolvimento, com foco em IA e manipulação de dados.
 
-* FastAPI: Framework moderno para construção de APIs rápidas e eficientes no backend.
+* Flask: Criar aplicações web e APIs usando Python, oferecendo um framework minimalista e flexível.
 
 * LangChain: Gerenciamento do fluxo de conversação, integração com LLMs e orquestração de prompts.
 
 * Gemini (Google AI): Modelo de linguagem multimodal da Google, utilizado para geração de respostas contextuais e recomendações personalizadas.
 
-* Google AI SDK: SDK oficial para integração com os modelos Gemini, permitindo consultas seguras e performáticas.
+* Google ADK: Estrutura flexível e modular para o desenvolvimento e a implantação de agentes de IA.
 
 * PostgreSQL: Banco de dados relacional utilizado para armazenar informações de usuários, histórico de conversas e recomendações.
 
