@@ -36,7 +36,7 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 
 ## 🚀 Meus Principais Conhecimentos
 
-### 🛠️ Tecnologias
+### 🔧 Tecnologias
 
 | **TypeScript** | **React** | **JavaScript** | **C#** | **.NET** | **Docker** | **AWS** | **SQL Server** | **Python** | **Git** |
 |----------------|-----------|----------------|--------|----------|------------|---------|----------------|-------------|---------|
@@ -48,7 +48,7 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 ## 2023-1 - 1º Semestre
 ### Tech School
 
-### 🏢 **Empresa Parceira**: Fatec
+### 👥 **Empresa Parceira**: Fatec
 ### 👨‍🏫 **Professor responsável**: Antônio Egydio
 
 🔗 [GitHub do Projeto](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre)
@@ -62,7 +62,7 @@ Os funcionários da empresa parceira têm enfrentado dificuldades em compreender
 
 Como solução para esse problema, desenvolvemos um **site informativo, interativo e intuitivo** que visa facilitar a compreensão das metodologias ágeis de forma prática e acessível. A plataforma apresenta os principais conceitos de forma clara, com linguagem didática, recursos visuais e exemplos aplicados ao cotidiano de projetos. Além disso, conta com um sistema de avaliação dinâmica baseado nos papéis do **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**, permitindo que os usuários testem seus conhecimentos e compreendam na prática como cada papel atua dentro de um time ágil, promovendo um aprendizado mais completo, engajador e alinhado às exigências do mercado.
 
-### 🧪 **Tecnologias Utilizadas**
+### 🔧 **Tecnologias Utilizadas**
 
 O projeto foi construído com as seguintes tecnologias:
 
@@ -102,7 +102,7 @@ Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pe
 ## 2023-2 - 2º Semestre
 ### Assistente Virtual Zari
 
-### 🏢 **Empresa Parceira**: Fatec
+### 👥 **Empresa Parceira**: Fatec
 ### 👨‍🏫 **Professor responsável**: Giuliano Bertoti
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/Zari-documentation)
@@ -254,7 +254,7 @@ A **JJM Log** é uma empresa especializada em logística, atuando nas áreas de 
 
 A empresa enfrentava dificuldades no controle de seus processos internos, causadas principalmente pelo uso de ferramentas desconectadas e procedimentos manuais. Esses fatores geravam baixa visibilidade, falhas na comunicação entre os departamentos e retrabalho, comprometendo diretamente a agilidade nas operações logísticas.
 
-### 📍 Solução
+### 💡 Solução
 
 Para superar esses desafios, foi desenvolvido um sistema web com interfaces personalizadas para cada tipo de usuário, respeitando níveis de permissão específicos. A solução automatiza os principais processos da empresa, oferece acompanhamento em tempo real das operações e promove a colaboração entre os departamentos, centralizando a gestão das demandas em uma única plataforma.
 
@@ -304,22 +304,21 @@ A **GSW Software** é especializada no desenvolvimento de soluções tecnológic
 
 A GSW enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que ocasionava atrasos, inconsistências nas informações e falta de controle. A ausência de um sistema automatizado dificultava a auditoria e comprometia a agilidade do processo, tanto para os colaboradores quanto para o setor financeiro.
 
-### 📍 Solução
+### 💡 Solução
 
 Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite aos colaboradores registrarem despesas de forma rápida e segura, anexando comprovantes e enviando solicitações diretamente ao setor financeiro. A solução inclui uma área administrativa para análise e aprovação dos reembolsos, com acesso a históricos e relatórios detalhados, garantindo mais controle, transparência e agilidade ao processo.
 
 ### 🔧 **Tecnologias Utilizadas**
 
-* TypeScript: Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
-* JavaScript: Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
-* React: Desenvolvimento da interface interativa com componentes dinâmicos e responsivos.
-* React Native: Desenvolvimento mobile com otimização e facilidade de execução.
-* Node.js: Desenvolvimento do back-end e manipulação de dados no servidor.
-* MongoDB: Armazenamento de dados de forma flexível e escalável.
-* MySQL: Modelagem e persistência de dados em banco relacional.
-* Expo: Garantir compatibilidade entre o app React Native e o sistema Android, integrando os dispositivos.
-* Figma: Criação de protótipos de telas e definição da experiência do usuário.
-* JIRA: Gestão de tarefas, sprints e acompanhamento do progresso do projeto.
+* **TypeScript**: Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
+* **JavaScript**: Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
+* **React Native**: Desenvolvimento mobile com otimização e facilidade de execução.
+* **Node.js**: Desenvolvimento do back-end e manipulação de dados no servidor.
+* **MongoDB**: Armazenamento de dados de forma flexível e escalável.
+* **MySQL**: Modelagem e persistência de dados em banco relacional.
+* **Expo**: Garantir compatibilidade entre o app React Native e o sistema Android, integrando os dispositivos.
+* **Figma**: Criação de protótipos de telas e definição da experiência do usuário.
+* **JIRA**: Gestão de tarefas, sprints e acompanhamento do progresso do projeto.
 
 ### 🤹 **Soft Skills**
 
@@ -364,35 +363,35 @@ A **Xertica.ai** é uma empresa especializada em soluções GenAI e consultoria 
 
 No cenário atual, muitas pessoas enfrentam dificuldades em manter uma alimentação equilibrada e personalizada conforme suas necessidades específicas de saúde. A falta de acompanhamento profissional constante e a sobrecarga de informações disponíveis na internet tornam o processo de adoção de hábitos alimentares saudáveis confuso e ineficiente. Além disso, soluções genéricas de nutrição digital não consideram as particularidades de cada indivíduo, como restrições alimentares, objetivos nutricionais e condições médicas específicas.
 
-### 📍 Solução
+### 💡 Solução
 
 Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligente voltado para fornecer apoio nutricional personalizado por meio de interações naturais em linguagem humana. O sistema permite que o usuário informe seus hábitos alimentares, preferências, restrições e metas de saúde, e, a partir disso, o agente gera recomendações nutricionais personalizadas e planos alimentares adaptativos.
 
 ### 🔧 **Tecnologias Utilizadas**
 
-* Spring Boot: Framework Java para construção do backend, com APIs REST e integração com modelos de IA.
+* **Spring Boot**: Framework Java para construção do backend, com APIs REST e integração com modelos de IA.
 
-* Vue.js: Desenvolvimento do frontend SPA (Single Page Application), com navegação fluida e componentes reativos.
+* **Vue.js**: Desenvolvimento do frontend SPA (Single Page Application), com navegação fluida e componentes reativos.
 
-* Python: Linguagem principal de desenvolvimento, com foco em IA e manipulação de dados.
+* **Python**: Linguagem principal de desenvolvimento, com foco em IA e manipulação de dados.
 
-* Flask: Criar aplicações web e APIs usando Python, oferecendo um framework minimalista e flexível.
+* **Flask**: Criar aplicações web e APIs usando Python, oferecendo um framework minimalista e flexível.
 
-* LangChain: Gerenciamento do fluxo de conversação, integração com LLMs e orquestração de prompts.
+* **LangChain**: Gerenciamento do fluxo de conversação, integração com LLMs e orquestração de prompts.
 
-* Gemini (Google AI): Modelo de linguagem multimodal da Google, utilizado para geração de respostas contextuais e recomendações personalizadas.
+* **Gemini (Google AI)**: Modelo de linguagem multimodal da Google, utilizado para geração de respostas contextuais e recomendações personalizadas.
 
-* Google ADK: Estrutura flexível e modular para o desenvolvimento e a implantação de agentes de IA.
+* **Google ADK**: Estrutura flexível e modular para o desenvolvimento e a implantação de agentes de IA.
 
-* PostgreSQL: Banco de dados relacional utilizado para armazenar informações de usuários, histórico de conversas e recomendações.
+* **PostgreSQL**: Banco de dados relacional utilizado para armazenar informações de usuários, histórico de conversas e recomendações.
 
-* Figma: Prototipagem e design das interfaces, priorizando usabilidade e acessibilidade.
+* **Figma**: Prototipagem e design das interfaces, priorizando usabilidade e acessibilidade.
 
-* Git e GitHub: Controle de versão e colaboração entre equipes de desenvolvimento.
+* **Git e GitHub**: Controle de versão e colaboração entre equipes de desenvolvimento.
 
-* Maven: Gerenciamento de dependências e automação de builds do projeto backend.
+* **Maven**: Gerenciamento de dependências e automação de builds do projeto backend.
 
-* JIRA: Organização e acompanhamento das tarefas, sprints e progresso do desenvolvimento.
+* **JIRA**: Organização e acompanhamento das tarefas, sprints e progresso do desenvolvimento.
 
 
 ### 🤹 Soft Skills
