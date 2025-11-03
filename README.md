@@ -165,7 +165,7 @@ No projeto, atuei como **Desenvolvedor** dentro da metodologia ágil **Scrum**. 
 ---
 
 ## 2024-1 - 3º Semestre  
-### Dashboard Pro4Tech
+### Dashboard Interativo
 
 ### 👥 **Empresa Parceira**: Pro4Tech 
 
