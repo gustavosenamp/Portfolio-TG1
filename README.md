@@ -1,22 +1,22 @@
-<h1 align="center">📘 Portfólio Acadêmico - Gustavo de Sena Moraes Pessoa</h1>
+<h1 align="center">Portfólio Acadêmico - Gustavo de Sena Moraes Pessoa</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/286c92a6-a4d0-4b47-8525-513c9c2cb190" alt="Foto de Gustavo de Sena Moraes Pessoa" width="200" style="border-radius: 50%;">
 </p>
 
-## 🔗 Introdução
+## Introdução
 
-Olá! Meu nome é **Gustavo de Sena Moraes Pessoa**, sou aluno da **Fatec São José dos Campos** e esse repositório representa meu **Trabalho de Conclusão de Curso (TCC)**, no formato de **Portfólio Acadêmico**, onde compartilho minha trajetória acadêmica e profissional.
+Olá! Meu nome é Gustavo de Sena Moraes Pessoa, sou aluno da Fatec São José dos Campos e esse repositório representa meu Trabalho de Conclusão de Curso (TCC), no formato de Portfólio Acadêmico**, onde compartilho minha trajetória acadêmica e profissional.
 
-### 🎓 Histórico Acadêmico
+### Histórico Acadêmico
 
 Minha jornada no mundo da tecnologia começou no final do ensino médio, quando eu cursava um **Técnico em Automação Industrial**. Apesar de não me identificar com a área como um todo, as disciplinas de programação chamaram minha atenção e despertaram meu interesse. Foi a partir daí que percebi eu queria trabalhar nessa área e queria ser desenvolvedor de software.
 
-Em 2023, ingressei na **Fatec São José dos Campos**, no curso de **Análise e Desenvolvimento de Sistemas**, onde ao longo dos semestres, tive contato com diversas linguagens, frameworks, bancos de dados e boas práticas de desenvolvimento. Durante o curso, realizei diversos projetos acadêmicos e trabalhos em equipe, que fortaleceram minha base técnica e minha colaboração com outras áreas.
+Em 2023, ingressei na Fatec São José dos Campos, no curso de Análise e Desenvolvimento de Sistemas, onde ao longo dos semestres, tive contato com diversas linguagens, frameworks, bancos de dados e boas práticas de desenvolvimento. Durante o curso, realizei diversos projetos acadêmicos e trabalhos em equipe, que fortaleceram minha base técnica e minha colaboração com outras áreas.
 
-### 💼 Histórico Profissional
+### Histórico Profissional
 
-Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor Full Stack Estagiário** na empresa **Pro4Tech**. Durante o estágio, atuei no desenvolvimento e manutenção de um sistema real, sendo responsável por **implementar novas funcionalidades**, **integrar e atualizar APIs** (como a **PagSeguro**), **desenvolver rotinas assíncronas** e **integrar serviços de mensagens**, incluindo **SMS**, **WhatsApp** e **e-mail**. Também criei **agendamentos automáticos de tarefas** e participei da **criação de telas responsivas**, contribuindo diretamente para a evolução do projeto.
+Em julho de 2024, iniciei minha experiência profissional como Desenvolvedor Full Stack Estagiário na empresa Pro4Tech. Durante o estágio, atuei no desenvolvimento e manutenção de um sistema real, sendo responsável por implementar novas funcionalidades, integrar e atualizar APIs (como a PagSeguro), desenvolver rotinas assíncronas e integrar serviços de mensagens, incluindo SMS, WhatsApp e e-mail. Também criei agendamentos automáticos de tarefas e participei da criação de telas responsivas**, contribuindo diretamente para a evolução do projeto.
 
  > **Índice de Projetos - API**
 
@@ -29,14 +29,14 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
   • <a href="#agente-nutricional"> 2025-2: Agente Nutricional </a>  </br>
 </p>
 
-## 📱 Contatos
+## Contatos
  <a href= "https://www.linkedin.com/in/gustavo-sena-577045232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:gustavosena07052005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href = "https://github.com/gustavosenamp" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-## 🚀 Meus Principais Conhecimentos
+## Meus Principais Conhecimentos
 
-### 🔧 Tecnologias
+### Tecnologias
 
 | **TypeScript** | **React** | **JavaScript** | **C#** | **.NET** | **Docker** | **AWS** | **SQL Server** | **Python** | **Git** |
 |----------------|-----------|----------------|--------|----------|------------|---------|----------------|-------------|---------|
@@ -48,21 +48,21 @@ Em julho de 2024, iniciei minha experiência profissional como **Desenvolvedor F
 ## 2023-1 - 1º Semestre
 ### Tech School
 
-### 👥 **Empresa Parceira**: Fatec
-### 👨‍🏫 **Professor responsável**: Antônio Egydio
+### **Empresa Parceira**: Fatec
+### **Professor responsável**: Antônio Egydio
 
 🔗 [GitHub do Projeto](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre)
 
-### ❗ **Problema** 
+### **Problema** 
 
 Os funcionários da empresa parceira têm enfrentado dificuldades em compreender e aplicar, de forma prática e organizada, os fundamentos das metodologias ágeis em seu ambiente de trabalho. Essa limitação compromete a eficiência dos processos internos e a colaboração entre equipes, especialmente em projetos que exigem rapidez, flexibilidade e entregas contínuas. A ausência de materiais didáticos digitais, acessíveis e voltados à realidade corporativa agrava o problema, tornando o aprendizado pouco engajador e dificultando a adoção efetiva dos princípios ágeis no dia a dia profissional.
 
 
-### 💡 **Solução** 
+### **Solução** 
 
 Como solução para esse problema, desenvolvemos um **site informativo, interativo e intuitivo** que visa facilitar a compreensão das metodologias ágeis de forma prática e acessível. A plataforma apresenta os principais conceitos de forma clara, com linguagem didática, recursos visuais e exemplos aplicados ao cotidiano de projetos. Além disso, conta com um sistema de avaliação dinâmica baseado nos papéis do **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**, permitindo que os usuários testem seus conhecimentos e compreendam na prática como cada papel atua dentro de um time ágil, promovendo um aprendizado mais completo, engajador e alinhado às exigências do mercado.
 
-### 🔧 **Tecnologias Utilizadas**
+### **Tecnologias Utilizadas**
 
 O projeto foi construído com as seguintes tecnologias:
 
@@ -75,7 +75,7 @@ O projeto foi construído com as seguintes tecnologias:
 - **Trello**
 
 
-### 👨‍💻 **Hard Skills Desenvolvidas**
+### **Hard Skills Desenvolvidas**
 
 Durante a execução do projeto, aplicamos:
 
@@ -85,38 +85,38 @@ Durante a execução do projeto, aplicamos:
 - Versionamento com **Git** e **GitHub** Nível de proficiência: Consigo ensinar
 - Desenvolvimento de um **MVP funcional** Nível de proficiência: Consigo ensinar
 
-### 🤹 **Soft Skills Praticadas**
+### **Soft Skills Praticadas**
 
-Durante o projeto, mantive uma **comunicação contínua** com o time por meio de reuniões semanais e mensagens no Trello, esclarecendo dúvidas sobre o conteúdo das páginas e garantindo alinhamento entre o desenvolvimento frontend e os textos explicativos.  
-Contribuí ativamente na **organização do fluxo de trabalho**, criando checklists e subtarefas no Trello, o que nos ajudou a visualizar o progresso e cumprir os prazos definidos nas sprints.  
-Demonstrei **adaptabilidade** ao reformular conteúdos e ajustar o layout das páginas após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.  
-Trabalhei de forma **colaborativa** na gravação e roteirização dos vídeos explicativos e protótipos, contribuindo com ideias criativas e sugestões de melhoria.  
-Por fim, mostrei **comprometimento** ao assumir a responsabilidade pelo modo escuro do site, garantindo sua implementação completa antes da apresentação final, mesmo diante de limitações de tempo.
+Durante o projeto, mantive uma comunicação contínua com o time por meio de reuniões semanais e mensagens no Trello, esclarecendo dúvidas sobre o conteúdo das páginas e garantindo alinhamento entre o desenvolvimento frontend e os textos explicativos.  
+Contribuí ativamente na organização do fluxo de trabalho, criando checklists e subtarefas no Trello, o que nos ajudou a visualizar o progresso e cumprir os prazos definidos nas sprints.  
+Demonstrei adaptabilidade ao reformular conteúdos e ajustar o layout das páginas após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.  
+Trabalhei de forma colaborativa na gravação e roteirização dos vídeos explicativos e protótipos, contribuindo com ideias criativas e sugestões de melhoria.  
+Por fim, mostrei comprometimento ao assumir a responsabilidade pelo modo escuro do site, garantindo sua implementação completa antes da apresentação final, mesmo diante de limitações de tempo.
 
-### 📍 Minhas Contribuições
+### Minhas Contribuições
 
-Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pela criação de textos explicativos para algumas páginas, como a que aborda o papel do **Scrum Master**. No **frontend**, desenvolvi páginas **responsivas** utilizando **HTML** e **CSS**, incluindo a implementação do **modo escuro**. Também atuei na criação de funcionalidades **interativas** com **JavaScript**, como os questionários e outras ações dinâmicas com o usuário. Além disso, participei ativamente das atividades em grupo, como a **gravação de vídeos**, **criação do protótipo** e **apresentações** do projeto.
+Contribuí em diversas etapas do desenvolvimento do projeto. Fui responsável pela criação de textos explicativos para algumas páginas, como a que aborda o papel do Scrum Master. No frontend, desenvolvi páginas responsivas utilizando HTML e CSS, incluindo a implementação do modo escuro. Também atuei na criação de funcionalidades interativas com JavaScript, como os questionários e outras ações dinâmicas com o usuário. Além disso, participei ativamente das atividades em grupo, como a gravação de vídeos, criação do protótipo e apresentações do projeto.
 
 ---
 
 ## 2023-2 - 2º Semestre
 ### Assistente Virtual Zari
 
-### 👥 **Empresa Parceira**: Fatec
-### 👨‍🏫 **Professor responsável**: Giuliano Bertoti
+### **Empresa Parceira**: Fatec
+### **Professor responsável**: Giuliano Bertoti
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
-### ❗ **Problema** 
+### **Problema** 
 
 Usuários tinham dificuldade em encontrar informações específicas dentro de grandes volumes de documentação técnica e acadêmica. A leitura manual dos documentos era demorada, pouco eficiente e gerava retrabalho.
 
 
-### 💡 **Solução** 
+### **Solução** 
 
-Desenvolvemos um **chatbot inteligente** para facilitar a análise de documentos PDF. Através de uma interface de chat, o usuário pode enviar um documento e realizar perguntas diretamente relacionadas ao seu conteúdo.  O bot interpreta e responde com base nas informações do arquivo, tornando a leitura e compreensão mais rápidas e eficientes.
+Desenvolvemos um chatbot inteligente para facilitar a análise de documentos PDF. Através de uma interface de chat, o usuário pode enviar um documento e realizar perguntas diretamente relacionadas ao seu conteúdo.  O bot interpreta e responde com base nas informações do arquivo, tornando a leitura e compreensão mais rápidas e eficientes.
 
-## 🔧 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Java**: Linguagem principal utilizada no desenvolvimento do backend do chatbot.
 
@@ -135,9 +135,9 @@ Desenvolvemos um **chatbot inteligente** para facilitar a análise de documentos
 - **GitHub**: Plataforma de versionamento e colaboração no código-fonte do projeto.
 
 
-### 👨‍💻 Hard Skills Desenvolvidas
+### Hard Skills Desenvolvidas
 
-Abaixo estão as tecnologias utilizadas no projeto e o respectivo **nível de proficiência** alcançado:
+Abaixo estão as tecnologias utilizadas no projeto e o respectivo nível de proficiência alcançado:
 
 - **Java**: Linguagem principal do backend do projeto. **Nível de proficiência:** Uso com ajuda
 
@@ -154,36 +154,36 @@ Abaixo estão as tecnologias utilizadas no projeto e o respectivo **nível de pr
 - **GitHub**: Versionamento de código e colaboração em equipe. **Nível de proficiência:** Consigo ensinar
   
 
-### 🤹 **Soft Skills Praticadas**
+### **Soft Skills Praticadas**
 
 Durante o projeto, utilizei a comunicação eficaz para esclarecer dúvidas da equipe em uma daily meeting, explicando detalhadamente o funcionamento do chatbot na análise de documentos PDF, o que alinhou o entendimento do time e evitou retrabalhos. Para garantir o cumprimento dos prazos, organizei o quadro do Trello com subtarefas e prioridades claras, facilitando o acompanhamento e a identificação rápida de impedimentos, o que permitiu decisões ágeis. Além disso, demonstrei adaptabilidade ao incorporar suporte a novos formatos de documentos, estudando as especificações e propondo mudanças modulares na arquitetura do chatbot que permitiram a expansão sem comprometer funcionalidades existentes.
 
-### 📍 Minhas Contribuições
+### Minhas Contribuições
 
-No projeto, atuei como **Desenvolvedor** dentro da metodologia ágil **Scrum**. Participei ativamente das reuniões do time, contribuindo com ideias e acompanhando o andamento das tarefas em cada **sprint**. Utilizei o **Git** e o **GitHub** para versionamento do código, colaborando com a equipe por meio de **commits organizados** e controle de **branches**. Minhas principais contribuições técnicas foram no desenvolvimento da **interface do chatbot**, onde trabalhei na construção da tela de interação com o usuário, e também na lógica de funcionamento do bot, auxiliando na implementação da **leitura e interpretação dos documentos PDF** para responder às perguntas dos usuários de forma eficiente.
+No projeto, atuei como Desenvolvedor dentro da metodologia ágil Scrum. Participei ativamente das reuniões do time, contribuindo com ideias e acompanhando o andamento das tarefas em cada sprint. Utilizei o Git e o GitHub para versionamento do código, colaborando com a equipe por meio de commits organizados e controle de branches. Minhas principais contribuições técnicas foram no desenvolvimento da interface do chatbot, onde trabalhei na construção da tela de interação com o usuário, e também na lógica de funcionamento do bot, auxiliando na implementação da leitura e interpretação dos documentos PDF para responder às perguntas dos usuários de forma eficiente.
 
 ---
 
 ## 2024-1 - 3º Semestre  
 ### Dashboard Interativo
 
-### 👥 **Empresa Parceira**: Pro4Tech 
+### **Empresa Parceira**: Pro4Tech 
 
-### 🏢 **Sobre a Empresa**:
+### **Sobre a Empresa**:
 
-A **Pro4Tech** é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinamos nossa expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à nossa capacidade de desenvolver estratégias personalizadas para cada negócio. 
+A Pro4Tech é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinamos nossa expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à nossa capacidade de desenvolver estratégias personalizadas para cada negócio. 
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
-### ❗ **Problema**
+### **Problema**
 
 A Pro4Tech enfrentava dificuldades para visualizar e interpretar grandes volumes de dados de vendas armazenados em planilhas Excel.
 
-### 💡 **Solução**
+### **Solução**
 
-Desenvolvemos um **dashboard web interativo**, capaz de importar automaticamente arquivos Excel, armazenar os dados em um banco de dados relacional e exibi-los em tabelas e gráficos dinâmicos. A plataforma permite **segmentação de dados**, **visualizações personalizadas** para diferentes níveis de acesso (como gerentes e funcionários) e o **cálculo automático de comissões**, facilitando o trabalho analítico e otimizando o tempo da equipe.
+Desenvolvemos um dashboard web interativo, capaz de importar automaticamente arquivos Excel, armazenar os dados em um banco de dados relacional e exibi-los em tabelas e gráficos dinâmicos. A plataforma permite segmentação de dados, visualizações personalizadas para diferentes níveis de acesso (como gerentes e funcionários) e o cálculo automático de comissões, facilitando o trabalho analítico e otimizando o tempo da equipe.
 
-### 🔧 Tecnologias utilizadas
+### Tecnologias utilizadas
 
 - **React**: Biblioteca JavaScript utilizada para construir toda a interface do sistema de forma dinâmica e responsiva.
 
@@ -204,7 +204,7 @@ Desenvolvemos um **dashboard web interativo**, capaz de importar automaticamente
 - **Slack**: Canal de comunicação principal da equipe, utilizado para trocas rápidas e organização de reuniões.
 
 
-### 👨‍💻 Hard Skills Desenvolvidas
+### Hard Skills Desenvolvidas
 
 - **React**: Desenvolvimento completo da interface com uso de componentes reutilizáveis. **Nível de proficiência:** Uso com autonomia
 
@@ -221,7 +221,7 @@ Desenvolvemos um **dashboard web interativo**, capaz de importar automaticamente
 - **Trello**: Organização de sprints e tarefas do projeto. **Nível de proficiência:** Uso com autonomia
   
 
-### 🤹 Soft Skills Praticadas
+### Soft Skills Praticadas
 
 * **Liderança:** Como Scrum Master, facilitei cerimônias ágeis, como daily stand-ups, sprint plannings e retrospectivas, garantindo o alinhamento da equipe e a entrega contínua de valor ao projeto.
 
@@ -233,7 +233,7 @@ Desenvolvemos um **dashboard web interativo**, capaz de importar automaticamente
 
 * **Resolução de Problemas:** Identifiquei e solucionei desafios relacionados à integração de dados e filtragem, propondo soluções otimizadas para melhorar a performance e a usabilidade do dashboard.
 
-### 📍 Minhas Contribuições
+### Minhas Contribuições
 
 Atuei como Scrum Master e Desenvolvedor no projeto, liderando a equipe na metodologia ágil e garantindo a organização das sprints por meio do Trello. Fui responsável pela integração dos dados de arquivos Excel com o dashboard, implementando lógicas de importação e processamento no back-end com Node.js e MySQL. Desenvolvi funcionalidades de filtragem tanto nas visualizações do dashboard quanto nas listagens, permitindo segmentações dinâmicas e personalizadas. Colaborei na construção de componentes reutilizáveis no front-end com React e TypeScript, assegurando a consistência visual e funcional. Participei ativamente dos testes de usabilidade, corrigindo erros de integração e propondo melhorias nos filtros com base em feedbacks dos stakeholders. Documentei os fluxos de dados e processos ágeis para facilitar a manutenção e a escalabilidade do sistema.
 
@@ -242,23 +242,23 @@ Atuei como Scrum Master e Desenvolvedor no projeto, liderando a equipe na metodo
 ## 2024-2 - 4º Semestre
 ### WE COLEB
 
-### **👥 Empresa Parceira:** JJM Log </br>
+### **Empresa Parceira:** JJM Log </br>
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
 
-### 🏢 Sobre a Empresa
+### Sobre a Empresa
 
-A **JJM Log** é uma empresa especializada em logística, atuando nas áreas de transporte, armazenagem e entrega de mercadorias. Com foco em eficiência operacional e rastreabilidade, a JJM Log busca constantemente soluções que aumentem a agilidade e a visibilidade de seus processos internos.
+A JJM Log é uma empresa especializada em logística, atuando nas áreas de transporte, armazenagem e entrega de mercadorias. Com foco em eficiência operacional e rastreabilidade, a JJM Log busca constantemente soluções que aumentem a agilidade e a visibilidade de seus processos internos.
 
-### 📍 Desafio
+### Desafio
 
 A empresa enfrentava dificuldades no controle de seus processos internos, causadas principalmente pelo uso de ferramentas desconectadas e procedimentos manuais. Esses fatores geravam baixa visibilidade, falhas na comunicação entre os departamentos e retrabalho, comprometendo diretamente a agilidade nas operações logísticas.
 
-### 💡 Solução
+### Solução
 
 Para superar esses desafios, foi desenvolvido um sistema web com interfaces personalizadas para cada tipo de usuário, respeitando níveis de permissão específicos. A solução automatiza os principais processos da empresa, oferece acompanhamento em tempo real das operações e promove a colaboração entre os departamentos, centralizando a gestão das demandas em uma única plataforma.
 
-### 🔧 **Tecnologias utilizadas**
+### **Tecnologias utilizadas**
 
 * **TypeScript:** Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
 * **JavaScript:** Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
@@ -268,13 +268,13 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 * **Figma"": Criação de protótipos de telas e definição da experiência do usuário.
 * **Trello**: Organização de tarefas, sprints e gestão de prioridades.
 
-### 🤹 **Soft Skills**
+### **Soft Skills**
 
 * **Autogestão**: Gerenciei meu próprio fluxo de trabalho, alinhando prioridades do time e prazos com autonomia e responsabilidade.
 * **Resolução de problemas**: Contribuí ativamente na identificação de bugs e na proposição de soluções para garantir a estabilidade e performance do sistema.
 * **Pensamento crítico**: Avaliei e sugeri melhorias técnicas com base em boas práticas de desenvolvimento e feedbacks do cliente.
 
-### 👨‍💻 **Hard Skills**
+### **Hard Skills**
 
 * **React**: Criar interfaces interativas, dashboards e formulários, garantindo responsividade e reutilização de componentes. **Nível de proficiência:** Uso com autonomia
 * **TypeScript**: Definição tipagens seguras, melhorando a qualidade e manutenção do código front-end. **Nível de proficiência:** Uso com autonomia
@@ -283,7 +283,7 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 * **GitHub**: Gerenciamento de branchs e armazenamento do em um repositório. **Nível de proficiência:** Consigo Ensinar
 * **Trello**: Acompanhar o progresso, organizar e gerenciar as sprints. **Nível de proficiência:** Uso com autonomia
 
-### 📍 **Minhas Contribuições**
+### **Minhas Contribuições**
 
 Atuei como desenvolvedor front-end, responsável por construir interfaces funcionais e responsivas utilizando React e TypeScript. Modelei componentes reutilizáveis e integrei com a API desenvolvida pelo time de back-end para garantir a consistência dos dados em tempo real. Sugeri melhorias baseadas em feedbacks de stakeholders durante as validações de protótipo. Auxiliei na resolução de erros encontrados durante os testes e documentei os fluxos desenvolvidos para facilitar a manutenção futura do sistema.
 
@@ -292,23 +292,23 @@ Atuei como desenvolvedor front-end, responsável por construir interfaces funcio
 ## 2025-1 - 5º Semestre
 ### Sistema de Reembolso
 
-### 👥 **Empresa Parceira:** GSW Software
+### **Empresa Parceira:** GSW Software
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
-### 🏢 Sobre a Empresa
+### Sobre a Empresa
 
-A **GSW Software** é especializada no desenvolvimento de soluções tecnológicas voltadas à otimização de processos empresariais. A empresa oferece sistemas personalizados, como ERPs e ferramentas de gestão de despesas, sempre com foco em aumentar a produtividade e a eficiência dos seus clientes.
+A GSW Software é especializada no desenvolvimento de soluções tecnológicas voltadas à otimização de processos empresariais. A empresa oferece sistemas personalizados, como ERPs e ferramentas de gestão de despesas, sempre com foco em aumentar a produtividade e a eficiência dos seus clientes.
 
-### 📍 Desafio
+### Desafio
 
 A GSW enfrentava dificuldades com o processo manual de solicitação de reembolsos, o que ocasionava atrasos, inconsistências nas informações e falta de controle. A ausência de um sistema automatizado dificultava a auditoria e comprometia a agilidade do processo, tanto para os colaboradores quanto para o setor financeiro.
 
-### 💡 Solução
+### Solução
 
 Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite aos colaboradores registrarem despesas de forma rápida e segura, anexando comprovantes e enviando solicitações diretamente ao setor financeiro. A solução inclui uma área administrativa para análise e aprovação dos reembolsos, com acesso a históricos e relatórios detalhados, garantindo mais controle, transparência e agilidade ao processo.
 
-### 🔧 **Tecnologias Utilizadas**
+### **Tecnologias Utilizadas**
 
 * **TypeScript**: Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
 * **JavaScript**: Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
@@ -320,7 +320,7 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * **Figma**: Criação de protótipos de telas e definição da experiência do usuário.
 * **JIRA**: Gestão de tarefas, sprints e acompanhamento do progresso do projeto.
 
-### 🤹 **Soft Skills**
+### **Soft Skills**
 
 * **Trabalho em Equipe:** Trabalhei de forma colaborativa com os demais desenvolvedores para garantir a integração eficiente entre as funcionalidades do sistema, como o histórico de despesas e a listagem de projetos. Participei ativamente das reuniões de sprint e de alinhamento, contribuindo para uma boa distribuição de tarefas e acompanhamento do progresso coletivo.
 
@@ -331,7 +331,7 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * **Pensamento Crítico:** Ao implementar recursos como o modo escuro e o controle de visualização de despesas, analisei constantemente pontos de melhoria na interface e na lógica do sistema, propondo ajustes que tornassem o uso mais intuitivo e agradável, sempre com foco na usabilidade e na clareza das informações apresentadas.
 
 
-### 👩‍💻 **Hard Skills**
+### **Hard Skills**
 
 * TypeScript: Tipagem segura e melhoria da qualidade do código. **Nível de proficiência:** Uso com autonomia
 * JavaScript: Desenvolver funcionalidades dinâmicas e integrar com APIs. **Nível de proficiência:** Uso com autonomia
@@ -342,7 +342,7 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * MySQL: Modelar o banco de dados relacional e persistir dados de forma eficiente. **Nível de proficiência:** Uso com autonomia
 * Expo: Desenvolvimento mobile e facilitar a execução de projetos React Native. **Nível de proficiência:** Uso com ajuda
 
-### 📍 **Minhas Contribuições**
+### **Minhas Contribuições**
 
 Contribuí significativamente para a melhoria da usabilidade do sistema, desenvolvendo o módulo de histórico de despesas, permitindo aos usuários acompanhar com clareza suas movimentações financeiras. Implementei também o modo escuro (dark mode) da aplicação, oferecendo uma experiência visual mais confortável e personalizável. Além disso, fui responsável pela criação da funcionalidade de listagem de projetos no sistema de gerenciamento, facilitando o acesso e a organização das informações de forma mais eficiente e intuitiva.
 
@@ -351,23 +351,23 @@ Contribuí significativamente para a melhoria da usabilidade do sistema, desenvo
 ## 2025-2 - 6º Semestre
 ### Agente Nutricional
 
-### 👥 **Empresa Parceira:** Xertica.ai
+### **Empresa Parceira:** Xertica.ai
 
-### 🏢 Sobre a Empresa
+### Sobre a Empresa
 
-A **Xertica.ai** é uma empresa especializada em soluções GenAI e consultoria em nuvem que promove a inovação na América Latina por meio da inteligência artificial responsável.
+A Xertica.ai é uma empresa especializada em soluções GenAI e consultoria em nuvem que promove a inovação na América Latina por meio da inteligência artificial responsável.
 
 🔗 [GitHub do Projeto](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
 
-### 📍 Desafio
+### Desafio
 
 No cenário atual, muitas pessoas enfrentam dificuldades em manter uma alimentação equilibrada e personalizada conforme suas necessidades específicas de saúde. A falta de acompanhamento profissional constante e a sobrecarga de informações disponíveis na internet tornam o processo de adoção de hábitos alimentares saudáveis confuso e ineficiente. Além disso, soluções genéricas de nutrição digital não consideram as particularidades de cada indivíduo, como restrições alimentares, objetivos nutricionais e condições médicas específicas.
 
-### 💡 Solução
+### Solução
 
 Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligente voltado para fornecer apoio nutricional personalizado por meio de interações naturais em linguagem humana. O sistema permite que o usuário informe seus hábitos alimentares, preferências, restrições e metas de saúde, e, a partir disso, o agente gera recomendações nutricionais personalizadas e planos alimentares adaptativos.
 
-### 🔧 **Tecnologias Utilizadas**
+### **Tecnologias Utilizadas**
 
 * **Spring Boot**: Framework Java para construção do backend, com APIs REST e integração com modelos de IA.
 
@@ -394,40 +394,36 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 * **JIRA**: Organização e acompanhamento das tarefas, sprints e progresso do desenvolvimento.
 
 
-### 🤹 Soft Skills
+### Soft Skills
 
-* **Trabalho em Equipe:** Colaborei ativamente com os desenvolvedores front e back-end para garantir a integração entre os módulos de IA, autenticação e interface do chatbot.  
-  Participei das reuniões de sprint e alinhamento técnico, contribuindo com soluções arquiteturais e de performance.
+* **Trabalho em Equipe:** Colaborei ativamente com os desenvolvedores front e back-end para garantir a integração entre os módulos de IA, autenticação e interface do chatbot. Participei das reuniões de sprint e alinhamento técnico, contribuindo com soluções arquiteturais e de performance.
 
-* **Comunicação:** Mantive comunicação constante com a equipe via **Jira e Slack**, facilitando a troca de informações sobre integrações entre o backend (FastAPI/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
+* **Comunicação:** Mantive comunicação constante com a equipe via Jira e Slack, facilitando a troca de informações sobre integrações entre o backend (FastAPI/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
 
-* **Responsabilidade:** Fui responsável direto pela **estrutura principal do sistema**, desde o backend até a conexão com o modelo de IA, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
+* **Responsabilidade:** Fui responsável direto pela estrutura principal do sistema, desde o backend até a conexão com o modelo de IA, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
 
 * **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições à IA, propondo soluções que reduziram a latência e tornaram o chatbot mais responsivo e preciso nas respostas aos usuários.
 
+### **Hard Skills**
 
-### 👩‍💻 Hard Skills
+* **Python:** Desenvolvimento da camada de IA e integração com o modelo Gemini. **Nível de proficiência:** Uso com autonomia   
+* **Spring Boot:** Estruturação de rotas, autenticação e serviços do backend Java. **Nível de proficiência:** Uso com autonomia  
+* **LangChain:** Gerenciamento de fluxos de conversa e orquestração de prompts para IA. **Nível de proficiência:** Uso com ajuda  
+* **PostgreSQL:** Modelagem e persistência de dados, incluindo histórico de conversas. **Nível de proficiência:** Uso com autonomia  
+* **Vue.js:** Desenvolvimento das sessões de chat e integração com APIs. **Nível de proficiência:** Uso com autonomia  
+* **Git & GitHub:** Controle de versão e integração contínua em equipe. **Nível de proficiência:** Uso com autonomia  
+* **Maven:** Gerenciamento de dependências e automação de builds no backend Java. **Nível de proficiência:** Uso com autonomia  
 
-| Tecnologia | Descrição | Proficiência |
-|-------------|------------|---------------|
-| **Python** | Desenvolvimento da camada de IA e integração com o modelo Gemini | 🟢 Uso com autonomia |
-| **FastAPI** | Criação de endpoints performáticos e seguros para comunicação entre o chatbot e o backend | 🟢 Uso com autonomia |
-| **Spring Boot** | Estruturação de rotas e autenticação do backend Java | 🟢 Uso com autonomia |
-| **LangChain** | Gerenciamento de fluxos de conversa e orquestração de prompts com o modelo de IA | 🟢 Uso com autonomia |
-| **PostgreSQL** | Modelagem e persistência de dados de usuários e histórico de conversas | 🟢 Uso com autonomia |
-| **Vue.js** | Desenvolvimento das sessões de chat e integração com a API | 🟢 Uso com autonomia |
-| **Git & GitHub** | Controle de versão e integração contínua em equipe | 🟢 Uso com autonomia |
-| **Maven** | Gerenciamento de dependências e automação do build backend Java | 🟢 Uso com autonomia |
 
 ### 📍 Minhas Contribuições
 
-Atuei de forma central no **desenvolvimento do backend**, sendo responsável pela **arquitetura da aplicação**, **implementação da autenticação**, **criação e organização das rotas**, e pela **integração entre o backend e o agente de IA**.  
+Atuei de forma central no desenvolvimento do backend, sendo responsável pela arquitetura da aplicação, implementação da autenticação, criação e organização das rotas, e pela integração entre o backend e o agente de IA.  
 
-Implementei também a **lógica que conecta o modelo de linguagem (Gemini)** ao sistema, permitindo a geração automática de **planos alimentares personalizados**, com base nos dados fornecidos pelos usuários.  
+Implementei também a lógica que conecta o modelo de linguagem (Gemini) ao sistema, permitindo a geração automática de planos alimentares personalizados, com base nos dados fornecidos pelos usuários.  
 
-No **frontend**, desenvolvi as **sessões de chat do agente nutricional**, garantindo a comunicação em tempo real entre o usuário e o modelo, além de auxiliar na estrutura de componentes reativos e integração com o backend.  
+No frontend, desenvolvi as sessões de chat do agente nutricional, garantindo a comunicação em tempo real entre o usuário e o modelo, além de auxiliar na estrutura de componentes reativos e integração com o backend.  
 
-Essas implementações garantiram uma **experiência de conversação fluida**, com respostas contextuais e adaptadas ao perfil de cada usuário.
+Essas implementações garantiram uma experiência de conversação fluida, com respostas contextuais e adaptadas ao perfil de cada usuário.
 
 <p align="center">
   Feito por Gustavo de Sena Moraes Pessoa
