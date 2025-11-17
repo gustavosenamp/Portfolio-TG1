@@ -6,7 +6,7 @@
 
 ## Introdução
 
-Olá! Meu nome é Gustavo de Sena Moraes Pessoa, sou aluno da Fatec São José dos Campos e esse repositório representa meu Trabalho de Conclusão de Curso (TCC), no formato de Portfólio Acadêmico**, onde compartilho minha trajetória acadêmica e profissional.
+Olá! Meu nome é Gustavo de Sena Moraes Pessoa, sou aluno da Fatec São José dos Campos e esse repositório representa meu Trabalho de Conclusão de Curso (TCC), no formato de Portfólio Acadêmico, onde compartilho minha trajetória acadêmica e profissional.
 
 ### Histórico Acadêmico
 
@@ -16,7 +16,7 @@ Em 2023, ingressei na Fatec São José dos Campos, no curso de Análise e Desenv
 
 ### Histórico Profissional
 
-Em julho de 2024, iniciei minha experiência profissional como Desenvolvedor Full Stack Estagiário na empresa Pro4Tech. Durante o estágio, atuei no desenvolvimento e manutenção de um sistema real, sendo responsável por implementar novas funcionalidades, integrar e atualizar APIs (como a PagSeguro), desenvolver rotinas assíncronas e integrar serviços de mensagens, incluindo SMS, WhatsApp e e-mail. Também criei agendamentos automáticos de tarefas e participei da criação de telas responsivas**, contribuindo diretamente para a evolução do projeto.
+Em julho de 2024, iniciei minha experiência profissional como Desenvolvedor Full Stack Estagiário na empresa Pro4Tech. Durante o estágio, atuei no desenvolvimento e manutenção de um sistema real, sendo responsável por implementar novas funcionalidades, integrar e atualizar APIs (como a PagSeguro), desenvolver rotinas assíncronas e integrar serviços de mensagens, incluindo SMS, WhatsApp e e-mail. Também criei agendamentos automáticos de tarefas e participei da criação de telas responsivas, contribuindo diretamente para a evolução do projeto.
 
  > **Índice de Projetos - API**
 
@@ -85,12 +85,16 @@ Durante a execução do projeto, aplicamos:
 - Versionamento com **Git** e **GitHub** Nível de proficiência: Consigo ensinar
 - Desenvolvimento de um **MVP funcional** Nível de proficiência: Consigo ensinar
 
-### **Soft Skills Praticadas**
+### **Soft Skills**
 
-Durante o projeto, mantive uma comunicação contínua com o time por meio de reuniões semanais e mensagens no Trello, esclarecendo dúvidas sobre o conteúdo das páginas e garantindo alinhamento entre o desenvolvimento frontend e os textos explicativos.  
-Contribuí ativamente na organização do fluxo de trabalho, criando checklists e subtarefas no Trello, o que nos ajudou a visualizar o progresso e cumprir os prazos definidos nas sprints.  
-Demonstrei adaptabilidade ao reformular conteúdos e ajustar o layout das páginas após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.  
-Trabalhei de forma colaborativa na gravação e roteirização dos vídeos explicativos e protótipos, contribuindo com ideias criativas e sugestões de melhoria.  
+Durante o projeto, mantive uma comunicação contínua com o time por meio de reuniões semanais e mensagens no Trello, esclarecendo dúvidas sobre o conteúdo das páginas e garantindo alinhamento entre o desenvolvimento frontend e os textos explicativos.
+
+Contribuí ativamente na organização do fluxo de trabalho, criando checklists e subtarefas no Trello, o que nos ajudou a visualizar o progresso e cumprir os prazos definidos nas sprints.
+
+Demonstrei adaptabilidade ao reformular conteúdos e ajustar o layout das páginas após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.
+
+Trabalhei de forma colaborativa na gravação e roteirização dos vídeos explicativos e protótipos, contribuindo com ideias criativas e sugestões de melhoria.
+
 Por fim, mostrei comprometimento ao assumir a responsabilidade pelo modo escuro do site, garantindo sua implementação completa antes da apresentação final, mesmo diante de limitações de tempo.
 
 ### Minhas Contribuições
@@ -270,9 +274,11 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 
 ### **Soft Skills**
 
-* **Autogestão**: Gerenciei meu próprio fluxo de trabalho, alinhando prioridades do time e prazos com autonomia e responsabilidade.
-* **Resolução de problemas**: Contribuí ativamente na identificação de bugs e na proposição de soluções para garantir a estabilidade e performance do sistema.
-* **Pensamento crítico**: Avaliei e sugeri melhorias técnicas com base em boas práticas de desenvolvimento e feedbacks do cliente.
+* **Autogestão:** Priorizei tarefas sem depender de acompanhamento constante, organizando entregas semanais e garantindo que todas as funcionalidades sob minha responsabilidade fossem concluídas no prazo.
+* **Resolução de problemas:** Detectei e corrigi falhas específicas na integração entre componentes e API, resolvendo inconsistências de estado, erros de renderização e comportamentos inesperados no fluxo do usuário.
+* **Pensamento crítico:** Questionei e validei decisões técnicas durante o desenvolvimento, propondo ajustes em componentes, regras de negócio e padrões de código que reduziram retrabalho e aumentaram a performance da interface.
+* **Comunicação clara:** Mantive alinhamento contínuo com o time de backend sobre alterações nas rotas e formatos de resposta, evitando conflitos de integração e garantindo que o front-end consumisse dados de forma consistente.
+* **Colaboração prática:** Participei ativamente de revisões de código, sugeri melhorias diretas na lógica e estrutura dos componentes, e apoiei colegas na resolução de pontos técnicos durante as sprints.
 
 ### **Hard Skills**
 
