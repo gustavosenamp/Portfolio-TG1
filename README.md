@@ -10,7 +10,7 @@ Olá! Meu nome é Gustavo de Sena Moraes Pessoa, sou aluno da Fatec São José d
 
 ### Histórico Acadêmico
 
-Minha jornada no mundo da tecnologia começou no final do ensino médio, quando eu cursava um **Técnico em Automação Industrial**. Apesar de não me identificar com a área como um todo, as disciplinas de programação chamaram minha atenção e despertaram meu interesse. Foi a partir daí que percebi eu queria trabalhar nessa área e queria ser desenvolvedor de software.
+Minha jornada no mundo da tecnologia começou no final do ensino médio, quando eu cursava um Técnico em Automação Industrial. Apesar de não me identificar com a área como um todo, as disciplinas de programação chamaram minha atenção e despertaram meu interesse. Foi a partir daí que percebi eu queria trabalhar nessa área e queria ser desenvolvedor de software.
 
 Em 2023, ingressei na Fatec São José dos Campos, no curso de Análise e Desenvolvimento de Sistemas, onde ao longo dos semestres, tive contato com diversas linguagens, frameworks, bancos de dados e boas práticas de desenvolvimento. Durante o curso, realizei diversos projetos acadêmicos e trabalhos em equipe, que fortaleceram minha base técnica e minha colaboração com outras áreas.
 
@@ -60,7 +60,7 @@ Os funcionários da empresa parceira têm enfrentado dificuldades em compreender
 
 ### **Solução** 
 
-Como solução para esse problema, desenvolvemos um **site informativo, interativo e intuitivo** que visa facilitar a compreensão das metodologias ágeis de forma prática e acessível. A plataforma apresenta os principais conceitos de forma clara, com linguagem didática, recursos visuais e exemplos aplicados ao cotidiano de projetos. Além disso, conta com um sistema de avaliação dinâmica baseado nos papéis do **Scrum Master**, **Product Owner** e **Time de Desenvolvimento**, permitindo que os usuários testem seus conhecimentos e compreendam na prática como cada papel atua dentro de um time ágil, promovendo um aprendizado mais completo, engajador e alinhado às exigências do mercado.
+Como solução para esse problema, desenvolvemos um site informativo, interativo e intuitivo que visa facilitar a compreensão das metodologias ágeis de forma prática e acessível. A plataforma apresenta os principais conceitos de forma clara, com linguagem didática, recursos visuais e exemplos aplicados ao cotidiano de projetos. Além disso, conta com um sistema de avaliação dinâmica baseado nos papéis do Scrum Master, Product Owner e Time de Desenvolvimento, permitindo que os usuários testem seus conhecimentos e compreendam na prática como cada papel atua dentro de um time ágil, promovendo um aprendizado mais completo, engajador e alinhado às exigências do mercado.
 
 ### **Tecnologias Utilizadas**
 
