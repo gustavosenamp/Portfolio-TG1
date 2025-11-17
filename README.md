@@ -398,7 +398,7 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 
 * **Trabalho em Equipe:** Colaborei ativamente com os desenvolvedores front e back-end para garantir a integração entre os módulos de IA, autenticação e interface do chatbot. Participei das reuniões de sprint e alinhamento técnico, contribuindo com soluções arquiteturais e de performance.
 
-* **Comunicação:** Mantive comunicação constante com a equipe via Jira e Slack, facilitando a troca de informações sobre integrações entre o backend (FastAPI/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
+* **Comunicação:** Mantive comunicação constante com a equipe via Jira e Slack, facilitando a troca de informações sobre integrações entre o backend (Flask/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
 
 * **Responsabilidade:** Fui responsável direto pela estrutura principal do sistema, desde o backend até a conexão com o modelo de IA, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
 
@@ -415,15 +415,16 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 * **Maven:** Gerenciamento de dependências e automação de builds no backend Java. **Nível de proficiência:** Uso com autonomia  
 
 
-### 📍 Minhas Contribuições
+### **Minhas Contribuições**
 
-Atuei de forma central no desenvolvimento do backend, sendo responsável pela arquitetura da aplicação, implementação da autenticação, criação e organização das rotas, e pela integração entre o backend e o agente de IA.  
+Atuei de forma central no desenvolvimento do backend, sendo responsável pela arquitetura da aplicação, implementação do fluxo completo de autenticação, criação e organização das rotas e pela integração entre o servidor e o agente de IA.
 
-Implementei também a lógica que conecta o modelo de linguagem (Gemini) ao sistema, permitindo a geração automática de planos alimentares personalizados, com base nos dados fornecidos pelos usuários.  
+Desenvolvi também a funcionalidade de geração automática do plano alimentar em PDF, permitindo ao usuário realizar o download do documento diretamente pela aplicação. Além disso, implementei o envio do plano por e-mail, automatizando a entrega do material personalizado de forma rápida e integrada.  
 
-No frontend, desenvolvi as sessões de chat do agente nutricional, garantindo a comunicação em tempo real entre o usuário e o modelo, além de auxiliar na estrutura de componentes reativos e integração com o backend.  
+No frontend, atuei na construção das sessões de chat do agente nutricional, garantindo comunicação em tempo real com o backend e contribuindo para a estruturação de componentes reativos, organização da interface e integração dos serviços.  
 
-Essas implementações garantiram uma experiência de conversação fluida, com respostas contextuais e adaptadas ao perfil de cada usuário.
+Essas implementações garantiram uma experiência de conversação fluida, com respostas inteligentes e uma jornada completa, desde a coleta dos dados até a entrega do plano alimentar personalizado em PDF ao usuário.
+
 
 <p align="center">
   Feito por Gustavo de Sena Moraes Pessoa
