@@ -406,9 +406,10 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 
 * **Comunicação:** Mantive comunicação constante com a equipe via Jira e Slack, facilitando a troca de informações sobre integrações entre o backend (Flask/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
 
-* **Responsabilidade:** Fui responsável direto pela estrutura principal do sistema, desde o backend até a conexão com o modelo de IA, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
+* **Responsabilidade:** Fui responsável direto pela estrutura principal do backend do sistema, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
+* 
+* **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições à IA, propondo soluções como a redução de chamadas desnecessárias ao modelo, a otimização do processo de validação de tokens e a reestruturação do payload enviado ao Gemini, o que diminuiu a latência e tornou o chatbot mais responsivo e preciso nas respostas aos usuários.
 
-* **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições à IA, propondo soluções que reduziram a latência e tornaram o chatbot mais responsivo e preciso nas respostas aos usuários.
 
 ### **Hard Skills**
 
