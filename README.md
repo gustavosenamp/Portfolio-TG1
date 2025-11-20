@@ -403,7 +403,7 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 
 ### **Hard Skills**
 
-* **Python:** Desenvolvimento da camada de IA e integração com o modelo Gemini. **Nível de proficiência:** Uso com autonomia   
+* **Python:** Desenvolvimento da camada de IA e integração com o modelo Gemini. **Nível de proficiência:** Uso com ajuda   
 * **Spring Boot:** Estruturação de rotas, autenticação e serviços do backend Java. **Nível de proficiência:** Uso com autonomia  
 * **LangChain:** Gerenciamento de fluxos de conversa e orquestração de prompts para IA. **Nível de proficiência:** Uso com ajuda  
 * **PostgreSQL:** Modelagem e persistência de dados, incluindo histórico de conversas. **Nível de proficiência:** Uso com autonomia  
