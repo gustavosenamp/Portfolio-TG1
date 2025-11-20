@@ -62,7 +62,7 @@ Os funcionários da empresa parceira têm enfrentado dificuldades em compreender
 
 Como solução para esse problema, desenvolvemos um site informativo, interativo e intuitivo que visa facilitar a compreensão das metodologias ágeis de forma prática e acessível. A plataforma apresenta os principais conceitos de forma clara, com linguagem didática, recursos visuais e exemplos aplicados ao cotidiano de projetos. Além disso, conta com um sistema de avaliação dinâmica baseado nos papéis do Scrum Master, Product Owner e Time de Desenvolvimento, permitindo que os usuários testem seus conhecimentos e compreendam na prática como cada papel atua dentro de um time ágil, promovendo um aprendizado mais completo, engajador e alinhado às exigências do mercado.
 
-### **Tecnologias Utilizadas**
+### **Tecnologias**
 
 O projeto foi construído com as seguintes tecnologias:
 
@@ -75,7 +75,7 @@ O projeto foi construído com as seguintes tecnologias:
 - **Trello**
 
 
-### **Hard Skills Desenvolvidas**
+### **Hard Skills**
 
 Durante a execução do projeto, aplicamos:
 
@@ -84,18 +84,15 @@ Durante a execução do projeto, aplicamos:
 - Prototipagem no **Figma** Nível de proficiência: Faço com Ajuda
 - Versionamento com **Git** e **GitHub** Nível de proficiência: Consigo ensinar
 - Desenvolvimento de um **MVP funcional** Nível de proficiência: Consigo ensinar
-
+  
 ### **Soft Skills**
 
-Durante o projeto, mantive uma comunicação contínua com o time por meio de reuniões semanais e mensagens no Trello, esclarecendo dúvidas sobre o conteúdo das páginas e garantindo alinhamento entre o desenvolvimento frontend e os textos explicativos.
+- **Comunicação clara:** Mantive contato contínuo com o time por meio de reuniões semanais e mensagens no Trello, esclarecendo dúvidas e garantindo alinhamento entre desenvolvimento e conteúdo das páginas.
+- **Organização do fluxo de trabalho:** Estruturei checklists e subtarefas no Trello, facilitando a visualização do progresso e o cumprimento dos prazos definidos nas sprints.
+- **Adaptabilidade:** Ajustei conteúdos e layouts após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.
+- **Colaboração:** Participei ativamente da gravação e roteirização dos vídeos e protótipos, contribuindo com ideias e sugestões de melhoria.
+- **Comprometimento:** Assumi a responsabilidade pela implementação completa do modo escuro do site e garanti sua entrega dentro do prazo.
 
-Contribuí ativamente na organização do fluxo de trabalho, criando checklists e subtarefas no Trello, o que nos ajudou a visualizar o progresso e cumprir os prazos definidos nas sprints.
-
-Demonstrei adaptabilidade ao reformular conteúdos e ajustar o layout das páginas após feedbacks do professor e da equipe, garantindo uma experiência mais clara e atrativa para os usuários.
-
-Trabalhei de forma colaborativa na gravação e roteirização dos vídeos explicativos e protótipos, contribuindo com ideias criativas e sugestões de melhoria.
-
-Por fim, mostrei comprometimento ao assumir a responsabilidade pelo modo escuro do site, garantindo sua implementação completa antes da apresentação final, mesmo diante de limitações de tempo.
 
 ### Minhas Contribuições
 
@@ -120,7 +117,7 @@ Usuários tinham dificuldade em encontrar informações específicas dentro de g
 
 Desenvolvemos um chatbot inteligente para facilitar a análise de documentos PDF. Através de uma interface de chat, o usuário pode enviar um documento e realizar perguntas diretamente relacionadas ao seu conteúdo.  O bot interpreta e responde com base nas informações do arquivo, tornando a leitura e compreensão mais rápidas e eficientes.
 
-## Tecnologias utilizadas
+## Tecnologias
 
 - **Java**: Linguagem principal utilizada no desenvolvimento do backend do chatbot.
 
@@ -139,7 +136,7 @@ Desenvolvemos um chatbot inteligente para facilitar a análise de documentos PDF
 - **GitHub**: Plataforma de versionamento e colaboração no código-fonte do projeto.
 
 
-### Hard Skills Desenvolvidas
+### Hard Skills
 
 Abaixo estão as tecnologias utilizadas no projeto e o respectivo nível de proficiência alcançado:
 
@@ -158,9 +155,12 @@ Abaixo estão as tecnologias utilizadas no projeto e o respectivo nível de prof
 - **GitHub**: Versionamento de código e colaboração em equipe. **Nível de proficiência:** Consigo ensinar
   
 
-### **Soft Skills Praticadas**
+### **Soft Skills**
 
-Durante o projeto, utilizei a comunicação eficaz para esclarecer dúvidas da equipe em uma daily meeting, explicando detalhadamente o funcionamento do chatbot na análise de documentos PDF, o que alinhou o entendimento do time e evitou retrabalhos. Para garantir o cumprimento dos prazos, organizei o quadro do Trello com subtarefas e prioridades claras, facilitando o acompanhamento e a identificação rápida de impedimentos, o que permitiu decisões ágeis. Além disso, demonstrei adaptabilidade ao incorporar suporte a novos formatos de documentos, estudando as especificações e propondo mudanças modulares na arquitetura do chatbot que permitiram a expansão sem comprometer funcionalidades existentes.
+- **Comunicação eficaz:** Esclareci dúvidas da equipe durante as reuniões, explicando detalhadamente o funcionamento do chatbot e alinhando o entendimento do time.
+- **Organização:** Estruturei o Trello com subtarefas e prioridades claras, facilitando o acompanhamento das demandas e a identificação rápida de impedimentos.
+- **Agilidade na tomada de decisões:** Apoiei o time ao organizar visualmente o fluxo de tarefas, permitindo ações rápidas para resolver bloqueios.
+- **Adaptabilidade:** Incorporei suporte a novos formatos de documentos, estudando requisitos técnicos e propondo mudanças modulares que ampliaram as funcionalidades do chatbot sem comprometer as já existentes.
 
 ### Minhas Contribuições
 
@@ -187,7 +187,7 @@ A Pro4Tech enfrentava dificuldades para visualizar e interpretar grandes volumes
 
 Desenvolvemos um dashboard web interativo, capaz de importar automaticamente arquivos Excel, armazenar os dados em um banco de dados relacional e exibi-los em tabelas e gráficos dinâmicos. A plataforma permite segmentação de dados, visualizações personalizadas para diferentes níveis de acesso (como gerentes e funcionários) e o cálculo automático de comissões, facilitando o trabalho analítico e otimizando o tempo da equipe.
 
-### Tecnologias utilizadas
+### Tecnologias
 
 - **React**: Biblioteca JavaScript utilizada para construir toda a interface do sistema de forma dinâmica e responsiva.
 
@@ -208,7 +208,7 @@ Desenvolvemos um dashboard web interativo, capaz de importar automaticamente arq
 - **Slack**: Canal de comunicação principal da equipe, utilizado para trocas rápidas e organização de reuniões.
 
 
-### Hard Skills Desenvolvidas
+### Hard Skills
 
 - **React**: Desenvolvimento completo da interface com uso de componentes reutilizáveis. **Nível de proficiência:** Uso com autonomia
 
@@ -225,7 +225,7 @@ Desenvolvemos um dashboard web interativo, capaz de importar automaticamente arq
 - **Trello**: Organização de sprints e tarefas do projeto. **Nível de proficiência:** Uso com autonomia
   
 
-### Soft Skills Praticadas
+### Soft Skills
 
 * **Liderança:** Como Scrum Master, facilitei cerimônias ágeis, como daily stand-ups, sprint plannings e retrospectivas, garantindo o alinhamento da equipe e a entrega contínua de valor ao projeto.
 
@@ -272,14 +272,6 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 * **Figma"": Criação de protótipos de telas e definição da experiência do usuário.
 * **Trello**: Organização de tarefas, sprints e gestão de prioridades.
 
-### **Soft Skills**
-
-* **Autogestão:** Priorizei tarefas sem depender de acompanhamento constante, organizando entregas semanais e garantindo que todas as funcionalidades sob minha responsabilidade fossem concluídas no prazo.
-* **Resolução de problemas:** Detectei e corrigi falhas específicas na integração entre componentes e API, resolvendo inconsistências de estado, erros de renderização e comportamentos inesperados no fluxo do usuário.
-* **Pensamento crítico:** Questionei e validei decisões técnicas durante o desenvolvimento, propondo ajustes em componentes, regras de negócio e padrões de código que reduziram retrabalho e aumentaram a performance da interface.
-* **Comunicação clara:** Mantive alinhamento contínuo com o time de backend sobre alterações nas rotas e formatos de resposta, evitando conflitos de integração e garantindo que o front-end consumisse dados de forma consistente.
-* **Colaboração prática:** Participei ativamente de revisões de código, sugeri melhorias diretas na lógica e estrutura dos componentes, e apoiei colegas na resolução de pontos técnicos durante as sprints.
-
 ### **Hard Skills**
 
 * **React**: Criar interfaces interativas, dashboards e formulários, garantindo responsividade e reutilização de componentes. **Nível de proficiência:** Uso com autonomia
@@ -288,6 +280,15 @@ Para superar esses desafios, foi desenvolvido um sistema web com interfaces pers
 * **MySQL**: Modelagem de tabelas e consultas, garantindo a persistência de dados do sistema. **Nível de proficiência:** Uso com autonomia
 * **GitHub**: Gerenciamento de branchs e armazenamento do em um repositório. **Nível de proficiência:** Consigo Ensinar
 * **Trello**: Acompanhar o progresso, organizar e gerenciar as sprints. **Nível de proficiência:** Uso com autonomia
+  
+### **Soft Skills**
+
+* **Autogestão:** Priorizei tarefas sem depender de acompanhamento constante, organizando entregas semanais e garantindo que todas as funcionalidades sob minha responsabilidade fossem concluídas no prazo.
+* **Resolução de problemas:** Detectei e corrigi falhas específicas na integração entre componentes e API, resolvendo inconsistências de estado, erros de renderização e comportamentos inesperados no fluxo do usuário.
+* **Pensamento crítico:** Questionei e validei decisões técnicas durante o desenvolvimento, propondo ajustes em componentes, regras de negócio e padrões de código que reduziram retrabalho e aumentaram a performance da interface.
+* **Comunicação clara:** Mantive alinhamento contínuo com o time de backend sobre alterações nas rotas e formatos de resposta, evitando conflitos de integração e garantindo que o front-end consumisse dados de forma consistente.
+* **Colaboração prática:** Participei ativamente de revisões de código, sugeri melhorias diretas na lógica e estrutura dos componentes, e apoiei colegas na resolução de pontos técnicos durante as sprints.
+
 
 ### **Minhas Contribuições**
 
@@ -314,7 +315,7 @@ A GSW enfrentava dificuldades com o processo manual de solicitação de reembols
 
 Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite aos colaboradores registrarem despesas de forma rápida e segura, anexando comprovantes e enviando solicitações diretamente ao setor financeiro. A solução inclui uma área administrativa para análise e aprovação dos reembolsos, com acesso a históricos e relatórios detalhados, garantindo mais controle, transparência e agilidade ao processo.
 
-### **Tecnologias Utilizadas**
+### **Tecnologias**
 
 * **TypeScript**: Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade.
 * **JavaScript**: Desenvolvimento de funcionalidades dinâmicas e integração com APIs.
@@ -326,6 +327,17 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * **Figma**: Criação de protótipos de telas e definição da experiência do usuário.
 * **JIRA**: Gestão de tarefas, sprints e acompanhamento do progresso do projeto.
 
+### **Hard Skills**
+
+* TypeScript: Tipagem segura e melhoria da qualidade do código. **Nível de proficiência:** Uso com autonomia
+* JavaScript: Desenvolver funcionalidades dinâmicas e integrar com APIs. **Nível de proficiência:** Uso com autonomia
+* React: Criar componentes reutilizáveis e desenvolver a interface web responsiva. **Nível de proficiência:** Uso com autonomia
+* React Native: Desenvolver a interface móvel com foco em performance e usabilidade. **Nível de proficiência:** Uso com ajuda
+* Node.js: Desenvolver o back-end e manipular dados no servidor. **Nível de proficiência:** Uso com autonomia
+* MongoDB: Armazenar dados de maneira flexível e escalável. **Nível de proficiência:** Uso com ajuda
+* MySQL: Modelar o banco de dados relacional e persistir dados de forma eficiente. **Nível de proficiência:** Uso com autonomia
+* Expo: Desenvolvimento mobile e facilitar a execução de projetos React Native. **Nível de proficiência:** Uso com ajuda
+  
 ### **Soft Skills**
 
 * **Trabalho em Equipe:** Trabalhei de forma colaborativa com os demais desenvolvedores para garantir a integração eficiente entre as funcionalidades do sistema, como o histórico de despesas e a listagem de projetos. Participei ativamente das reuniões de sprint e de alinhamento, contribuindo para uma boa distribuição de tarefas e acompanhamento do progresso coletivo.
@@ -337,16 +349,6 @@ Para resolver esse problema, foi desenvolvido um aplicativo móvel que permite a
 * **Pensamento Crítico:** Ao implementar recursos como o modo escuro e o controle de visualização de despesas, analisei constantemente pontos de melhoria na interface e na lógica do sistema, propondo ajustes que tornassem o uso mais intuitivo e agradável, sempre com foco na usabilidade e na clareza das informações apresentadas.
 
 
-### **Hard Skills**
-
-* TypeScript: Tipagem segura e melhoria da qualidade do código. **Nível de proficiência:** Uso com autonomia
-* JavaScript: Desenvolver funcionalidades dinâmicas e integrar com APIs. **Nível de proficiência:** Uso com autonomia
-* React: Criar componentes reutilizáveis e desenvolver a interface web responsiva. **Nível de proficiência:** Uso com autonomia
-* React Native: Desenvolver a interface móvel com foco em performance e usabilidade. **Nível de proficiência:** Uso com ajuda
-* Node.js: Desenvolver o back-end e manipular dados no servidor. **Nível de proficiência:** Uso com autonomia
-* MongoDB: Armazenar dados de maneira flexível e escalável. **Nível de proficiência:** Uso com ajuda
-* MySQL: Modelar o banco de dados relacional e persistir dados de forma eficiente. **Nível de proficiência:** Uso com autonomia
-* Expo: Desenvolvimento mobile e facilitar a execução de projetos React Native. **Nível de proficiência:** Uso com ajuda
 
 ### **Minhas Contribuições**
 
@@ -399,18 +401,6 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 
 * **JIRA**: Organização e acompanhamento das tarefas, sprints e progresso do desenvolvimento.
 
-
-### Soft Skills
-
-* **Trabalho em Equipe:** Colaborei ativamente com os desenvolvedores front e back-end para garantir a integração entre os módulos de IA, autenticação e interface do chatbot. Participei das reuniões de sprint e alinhamento técnico, contribuindo com soluções arquiteturais e de performance.
-
-* **Comunicação:** Mantive comunicação constante com a equipe via Jira e Slack, facilitando a troca de informações sobre integrações entre o backend (Flask/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
-
-* **Responsabilidade:** Fui responsável direto pela estrutura principal do backend do sistema, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
-* 
-* **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições à IA, propondo soluções como a redução de chamadas desnecessárias ao modelo, a otimização do processo de validação de tokens e a reestruturação do payload enviado ao Gemini, o que diminuiu a latência e tornou o chatbot mais responsivo e preciso nas respostas aos usuários.
-
-
 ### **Hard Skills**
 
 * **Python:** Desenvolvimento da camada de IA e integração com o modelo Gemini. **Nível de proficiência:** Uso com autonomia   
@@ -419,7 +409,17 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 * **PostgreSQL:** Modelagem e persistência de dados, incluindo histórico de conversas. **Nível de proficiência:** Uso com autonomia  
 * **Vue.js:** Desenvolvimento das sessões de chat e integração com APIs. **Nível de proficiência:** Uso com autonomia  
 * **Git & GitHub:** Controle de versão e integração contínua em equipe. **Nível de proficiência:** Uso com autonomia  
-* **Maven:** Gerenciamento de dependências e automação de builds no backend Java. **Nível de proficiência:** Uso com autonomia  
+* **Maven:** Gerenciamento de dependências e automação de builds no backend Java. **Nível de proficiência:** Uso com autonomia
+  
+### Soft Skills
+
+* **Trabalho em Equipe:** Colaborei ativamente com os desenvolvedores front e back-end para garantir a integração entre os módulos de IA, autenticação e interface do chatbot. Participei das reuniões de sprint e alinhamento técnico, contribuindo com soluções arquiteturais e de performance.
+
+* **Comunicação:** Mantive comunicação constante com a equipe via Jira e Slack, facilitando a troca de informações sobre integrações entre o backend (Flask/Spring Boot) e o frontend (Vue.js), além de resolver rapidamente dúvidas sobre endpoints e fluxo de autenticação.
+
+* **Responsabilidade:** Fui responsável direto pela estrutura principal do backend do sistema, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
+  
+* **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições à IA, propondo soluções como a redução de chamadas desnecessárias ao modelo, a otimização do processo de validação de tokens e a reestruturação do payload enviado ao Gemini, o que diminuiu a latência e tornou o chatbot mais responsivo e preciso nas respostas aos usuários.
 
 
 ### **Minhas Contribuições**
