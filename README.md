@@ -419,7 +419,7 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 
 * **Responsabilidade:** Fui responsável direto pela estrutura principal do backend do sistema, garantindo que as funcionalidades fossem entregues com qualidade, segurança e desempenho adequado.
   
-* **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições da IA, propondo soluções como a redução de chamadas desnecessárias, a otimização do processo de validação de tokens e a reestruturação do payload enviado ao Gemini, o que diminuiu a latência e tornou o chatbot mais responsivo e preciso nas respostas aos usuários.
+* **Pensamento Crítico:** Analisei e otimizei fluxos de autenticação e requisições da IA, propondo soluções como a redução de chamadas desnecessárias e a reestruturação do payload enviado a IA, o que diminuiu a latência e tornou o chatbot mais responsivo e preciso nas respostas aos usuários.
 
 
 ### **Minhas Contribuições**
