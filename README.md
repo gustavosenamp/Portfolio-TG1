@@ -391,7 +391,7 @@ Para enfrentar esse desafio, foi desenvolvido um agente conversacional inteligen
 
 * **Google ADK**: Estrutura flexível e modular para o desenvolvimento e a implantação de agentes de IA.
 
-* **PostgreSQL**: Banco de dados relacional utilizado para armazenar informações de usuários, histórico de conversas e recomendações.
+* **PostgreSQL**: Banco de dados relacional utilizado para armazenar informações de usuários, histórico de conversas e recomendações. O PostgreSQL foi escolhido como banco de dados principal devido à necessidade de garantir consistência, integridade e organização estruturada dos dados, características fundamentais em um sistema que lida com informações sensíveis de usuários, como histórico alimentar, metas de saúde, preferências pessoais e interações realizadas com o agente nutricional.
 
 * **Figma**: Prototipagem e design das interfaces, priorizando usabilidade e acessibilidade.
 
